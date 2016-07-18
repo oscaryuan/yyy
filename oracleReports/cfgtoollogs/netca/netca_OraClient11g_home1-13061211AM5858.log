@@ -1,0 +1,15 @@
+
+Parsing command line arguments:
+    Parameter "orahome" = C:\Oracle\product\11.2.0\client_1
+    Parameter "orahnam" = OraClient11g_home1
+    Parameter "instype" = typical
+    Parameter "inscomp" = client,oraclenet,ano
+    Parameter "insprtcl" = tcp,nmp
+    Parameter "cfg" = local
+    Parameter "authadp" = NO_VALUE
+    Parameter "responsefile" = C:\Oracle\product\11.2.0\client_1\network\install\netca_clt.rsp
+    Parameter "silent" = true
+Done parsing command line arguments.
+Oracle Net Services Configuration:
+Profile configuration complete.
+Oracle Net Services configuration successful. The exit code is 0

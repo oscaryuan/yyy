@@ -1,0 +1,98 @@
+[main] [ 2013-06-12 11:58:58.705 EDT ] [NetCALogger.initTrace:203]  Oracle Net Configuration Assistant: 13061211AM5858
+[main] [ 2013-06-12 11:58:58.705 EDT ] [NetCALogger.initTrace:204]  Oracle Home: C:\Oracle\product\11.2.0\client_1
+[main] [ 2013-06-12 11:58:58.705 EDT ] [NetCALogger.initTrace:205]  Oracle Base: C:\Oracle
+[main] [ 2013-06-12 11:58:58.705 EDT ] [NetCALogger.initTrace:206]  Oracle Home Name: OraClient11g_home1
+[main] [ 2013-06-12 11:58:58.736 EDT ] [InventoryUtil.getOUIInvSession:347]  setting OUI READ level to ACCESSLEVEL_READ_LOCKLESS
+[main] [ 2013-06-12 11:58:58.736 EDT ] [HAUtils.<init>:203]  oui location C:\Program Files\Oracle\Inventory\ContentsXML
+[main] [ 2013-06-12 11:58:58.736 EDT ] [Version.isPre:304]  version to be checked 11.2.0.1.0 major version to check against10
+[main] [ 2013-06-12 11:58:58.736 EDT ] [Version.isPre:315]  isPre.java: Returning FALSE
+[main] [ 2013-06-12 11:58:58.752 EDT ] [OCR.loadLibrary:308]  
+ Inside constructor of OCR
+[main] [ 2013-06-12 11:58:58.752 EDT ] [sPlatform.isHybrid:63]  osName=Windows Vista osArch=amd64 rc=false
+[main] [ 2013-06-12 11:58:58.752 EDT ] [Library.load:240]  Property oracle.installer.library_loc is set to value=C:\Oracle\product\11.2.0\client_1\oui\lib\win64
+[main] [ 2013-06-12 11:58:58.752 EDT ] [Library.load:242]  Loading  library C:\Oracle\product\11.2.0\client_1\oui\lib\win64\orauts.dll
+[main] [ 2013-06-12 11:58:58.752 EDT ] [sPlatform.isHybrid:63]  osName=Windows Vista osArch=amd64 rc=false
+[main] [ 2013-06-12 11:58:58.752 EDT ] [Library.load:240]  Property oracle.installer.library_loc is set to value=C:\Oracle\product\11.2.0\client_1\oui\lib\win64
+[main] [ 2013-06-12 11:58:58.767 EDT ] [Library.load:242]  Loading  library C:\Oracle\product\11.2.0\client_1\oui\lib\win64\orawsec11.dll
+[main] [ 2013-06-12 11:58:58.767 EDT ] [sPlatform.isHybrid:63]  osName=Windows Vista osArch=amd64 rc=false
+[main] [ 2013-06-12 11:58:58.767 EDT ] [Library.load:240]  Property oracle.installer.library_loc is set to value=C:\Oracle\product\11.2.0\client_1\oui\lib\win64
+[main] [ 2013-06-12 11:58:58.767 EDT ] [Library.load:242]  Loading  library C:\Oracle\product\11.2.0\client_1\oui\lib\win64\orasrvm11.dll
+[main] [ 2013-06-12 11:58:58.767 EDT ] [OCR.loadLibrary:316]  Going to load the ocr library
+[main] [ 2013-06-12 11:58:58.767 EDT ] [sPlatform.isHybrid:63]  osName=Windows Vista osArch=amd64 rc=false
+[main] [ 2013-06-12 11:58:58.767 EDT ] [sPlatform.isHybrid:63]  osName=Windows Vista osArch=amd64 rc=false
+[main] [ 2013-06-12 11:58:58.767 EDT ] [Library.load:249]  Loading  library C:\Oracle\product\11.2.0\client_1\bin\orasrvmocr11.dll
+[main] [ 2013-06-12 11:58:58.767 EDT ] [Library.validateLibVersion:323]  Validating library version of C:\Oracle\product\11.2.0\client_1\bin\orasrvmocr11.dll
+[main] [ 2013-06-12 11:58:58.767 EDT ] [Library.validateLibVersion:329]  libVer=11.2.0.1
+
+[main] [ 2013-06-12 11:58:58.767 EDT ] [Library.validateLibVersion:343]  Validated version for C:\Oracle\product\11.2.0\client_1\bin\orasrvmocr11.dll
+[main] [ 2013-06-12 11:58:58.767 EDT ] [OCR.loadLibrary:318]  loaded ocr libraries
+[main] [ 2013-06-12 11:58:58.767 EDT ] [OCR.isCluster:939]  Calling OCRNative for isCluster()
+[main] [ 2013-06-12 11:58:58.783 EDT ] [OCR.isCluster:943]  OCR Result status = true
+[main] [ 2013-06-12 11:58:58.783 EDT ] [OCR.isCluster:955]  Bolean result = false
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.<init>:110]  Initializing variables array...
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.<init>:116]  Initializing NetProperties...
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.initArgs:133]  Initializing command line arguments...
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.parseLogParam:290]  Parsing /log argument...
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.parseLogParam:345]  Returning Log File = null
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.setOraArgs:236]  Setting Oracle arguments...
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.setOraArgs:240]  Passed Oracle Home = C:\Oracle\product\11.2.0\client_1
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.setOraArgs:243]  Read Oracle Home = C:\Oracle\product\11.2.0\client_1
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.setOraArgs:246]  Read Oracle Home ID = 
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.setOraArgs:249]  Read Oracle Home Name = OraClient11g_home1
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.compareOraHome:183]  Comparing Oracle Homes ...
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.compareOraHome:184]  Oracle Home 1 = C:\Oracle\product\11.2.0\client_1
+[main] [ 2013-06-12 11:58:58.783 EDT ] [CmdlineArgs.compareOraHome:185]  Oracle Home 2 = C:\Oracle\product\11.2.0\client_1
+[main] [ 2013-06-12 11:58:58.799 EDT ] [CmdlineArgs.compareOraHome:224]  Returning true
+[main] [ 2013-06-12 11:58:58.799 EDT ] [CmdlineArgs.setOraArgs:267]  Setting Oracle Home ID = 
+[main] [ 2013-06-12 11:58:58.799 EDT ] [InitialSetup.configureOPS:4519]  Cluster mode is OFF
+[main] [ 2013-06-12 11:58:58.799 EDT ] [InitialSetup.<init>:4038]  TNS_ADMIN is: null
+[main] [ 2013-06-12 11:58:58.799 EDT ] [OPSUtil.getHomeVersion:446]  Inside getHomeVersion...
+[main] [ 2013-06-12 11:58:58.799 EDT ] [OPSUtil.getHomeVersion:447]  oracleHome = C:\Oracle\product\11.2.0\client_1
+[main] [ 2013-06-12 11:58:58.799 EDT ] [OPSUtil.getHomeVersion:451]  oracle.sysman.assistants.util.OracleHome Object = C:\Oracle\product\11.2.0\client_1
+[main] [ 2013-06-12 11:58:58.799 EDT ] [OracleHome.getVersion:880]  OracleHome.getVersion called.  Current Version: null
+[main] [ 2013-06-12 11:58:58.799 EDT ] [InventoryUtil.getOUIInvSession:347]  setting OUI READ level to ACCESSLEVEL_READ_LOCKLESS
+[main] [ 2013-06-12 11:58:58.799 EDT ] [OracleHome.getVersion:899]  Homeinfo C:\Oracle\product\11.2.0\client_1,1
+[main] [ 2013-06-12 11:58:59.126 EDT ] [OracleHome.getVersion:946]  Current Version From Inventory: null
+[main] [ 2013-06-12 11:58:59.126 EDT ] [OracleHome.getVersion:951]  using sqlplus: C:\Oracle\product\11.2.0\client_1\bin\sqlplus.exe
+[main] [ 2013-06-12 11:58:59.220 EDT ] [OracleHome.getVersion:995]  C:\Oracle\product\11.2.0\client_1\bin\sqlplus.exe Banner: 
+
+SQL*Plus: Release 11.2.0.1.0 Production
+
+[main] [ 2013-06-12 11:58:59.220 EDT ] [OracleHome.getVersion:1013]  Current version from sqlplus: 11.2.0.1.0
+[main] [ 2013-06-12 11:58:59.220 EDT ] [OPSUtil.getHomeVersion:452]  returning oracleHome Version = 11.2.0.1.0
+[main] [ 2013-06-12 11:58:59.220 EDT ] [OracleHome.getVersion:880]  OracleHome.getVersion called.  Current Version: 11.2.0.1.0
+[main] [ 2013-06-12 11:58:59.220 EDT ] [OracleHome.getVersion:946]  Current Version From Inventory: 11.2.0.1.0
+[main] [ 2013-06-12 11:58:59.220 EDT ] [OracleHome.getVersion:951]  using sqlplus: C:\Oracle\product\11.2.0\client_1\bin\sqlplus.exe
+[main] [ 2013-06-12 11:58:59.220 EDT ] [InitialSetup.<init>:4051]  Admin location is: C:\Oracle\product\11.2.0\client_1\network\admin
+[main] [ 2013-06-12 11:59:03.369 EDT ] [ConfigureProfile.setProfileParam:136]  Setting NAMES.DIRECTORY_PATH: (TNSNAMES, EZCONNECT)
+[main] [ 2013-06-12 11:59:03.369 EDT ] [ConfigureProfile.setProfileParam:136]  Setting SQLNET.AUTHENTICATION_SERVICES: (NTS)
+[main] [ 2013-06-12 11:59:03.369 EDT ] [ConfigureProfile.setDefaultProfileParams:109]  Not setting ADR_BASE: sqlnet.ora already exist!
+[main] [ 2013-06-12 11:59:03.369 EDT ] [HAUtils.getHASHome:631]  Oracle home from system properties: C:\Oracle\product\11.2.0\client_1
+[main] [ 2013-06-12 11:59:03.369 EDT ] [HAUtils.getCRSHome:588]  Getting configured CRS/HAS home for Oracle home ( C:\Oracle\product\11.2.0\client_1 ) ...
+[main] [ 2013-06-12 11:59:03.369 EDT ] [GETCRSHOMEUtil.<init>:88]  Toolname: getcrshome.exe   ---    Tool location: C:\Oracle\product\11.2.0\client_1\binTool dependencies: [Ljava.lang.String;@2c19e15c
+[main] [ 2013-06-12 11:59:03.369 EDT ] [CmdToolUtil.doexecute:360]  starting remote exec server on local node src=C:\Oracle\product\11.2.0\client_1\bin dest=C:\Users\dsuciu\AppData\Local\Temp\
+[main] [ 2013-06-12 11:59:03.432 EDT ] [Utils.getLocalHost:356]  Hostname retrieved: LTTOR0112512, returned: LTTOR0112512
+[main] [ 2013-06-12 11:59:03.432 EDT ] [WindowsSystem.startRemoteExecServer:1728]  _WS_: Checking if service is started
+
+[main] [ 2013-06-12 11:59:03.432 EDT ] [Utils.getLocalHost:356]  Hostname retrieved: LTTOR0112512, returned: LTTOR0112512
+[main] [ 2013-06-12 11:59:03.432 EDT ] [WindowsSystem.dorunRemoteExecCmd:2061]  _WS_: Calling windowsNative with cmd: C:\Oracle\product\11.2.0\client_1\bin\getcrshome.exe
+[main] [ 2013-06-12 11:59:04.446 EDT ] [WindowsSystem.dorunRemoteExecCmd:2064]  _WS_: WinNative returned: true
+[main] [ 2013-06-12 11:59:04.446 EDT ] [WindowsSystem.dorunRemoteExecCmd:2078]  _WS_: remote command executed, but didn't return zero.
+[main] [ 2013-06-12 11:59:04.446 EDT ] [GETCRSHOMEUtil.getCRS_HOME:147]  cmdTool.execute() failed.
+[main] [ 2013-06-12 11:59:04.446 EDT ] [HAUtils.isHASConfigured:364]  Ignoring exception in isHASConfigured: PRCT-1400 : getcrshome execution failed. Detailed error:
+localnode
+[main] [ 2013-06-12 11:59:04.446 EDT ] [HAUtils.isHASConfigured:365]  oracle.cluster.deployment.ClusterwareInfo.getConfiguredCRSHome(ClusterwareInfo.java:425)
+oracle.sysman.assistants.util.hasi.HAUtils.getCRSHome(HAUtils.java:592)
+oracle.sysman.assistants.util.hasi.HAUtils.getHASHome(HAUtils.java:652)
+oracle.sysman.assistants.util.hasi.HAUtils.isHASConfigured(HAUtils.java:360)
+oracle.net.ca.InitialSetup.checkHAConfiguration(NetCA.java:4668)
+oracle.net.ca.InitialSetup.<init>(NetCA.java:4085)
+oracle.net.ca.NetCA.main(NetCA.java:409)
+[main] [ 2013-06-12 11:59:04.446 EDT ] [InitialSetup.checkHAConfiguration:4706]  HA Server is NOT configured.
+[main] [ 2013-06-12 11:59:04.446 EDT ] [NetCAResponseFile.<init>:68]  Response file initialized: C:\Oracle\product\11.2.0\client_1\network\install\netca_clt.rsp
+[main] [ 2013-06-12 11:59:04.446 EDT ] [NetCAResponseFile.getInstalledComponents:107]  Installed components from response file: client, net8
+[main] [ 2013-06-12 11:59:04.446 EDT ] [NetCAResponseFile.getVirtualHost:164]  Virtual Host from response file: null
+[main] [ 2013-06-12 11:59:04.446 EDT ] [SilentConfigure.performSilentConfigure:174]  Typical profile configuration.
+[main] [ 2013-06-12 11:59:04.446 EDT ] [ConfigureProfile.setProfileParam:136]  Setting NAMES.DIRECTORY_PATH: (TNSNAMES, EZCONNECT)
+[main] [ 2013-06-12 11:59:04.446 EDT ] [ConfigureProfile.setProfileParam:136]  Setting SQLNET.AUTHENTICATION_SERVICES: (NTS)
+[main] [ 2013-06-12 11:59:04.446 EDT ] [ConfigureProfile.setDefaultProfileParams:109]  Not setting ADR_BASE: sqlnet.ora already exist!
