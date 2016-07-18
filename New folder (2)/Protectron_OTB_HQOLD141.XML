@@ -1,0 +1,1797 @@
+<?xml version= "1.0" encoding= "ISO-8859-1" standalone="yes"?>
+
+<?xml-stylesheet type="text\xsl"href=ProtectronDesign.xsl"?>
+
+<INVOICE_BATCH>
+
+<batch_no> 56009</batch_no>
+<tran_date>13/09/05</tran_date>
+<sys_date>13/09/05</sys_date>
+<due_date>13/10/05</due_date>
+<cyc_date>13/09/06</cyc_date>
+<bch_tot>      275.04</bch_tot>
+<mininv> 28292328</mininv>
+<maxinv>28292334 </maxinv>
+<text>----- UE OTB - ONE TIME BILLING - RLC  TO: 13-09-05</text>
+<wo_type>%   </wo_type>
+<ct>     7</ct>
+<INVOICE>
+<CONTROLE>
+<PROC_FlagReturnEnvelopType>1</PROC_FlagReturnEnvelopType>
+<PROC_FlagShippingEnvelop>1</PROC_FlagShippingEnvelop>
+<PROC_BA_acc_no>RLC00002</PROC_BA_acc_no>
+<PROC_BA_Branch>0200</PROC_BA_Branch>
+<PROC_BA_lang>8</PROC_BA_lang>
+<PROC_FlagPrintPaper>0</PROC_FlagPrintPaper>
+<PROC_FlagShowAmounts>0</PROC_FlagShowAmounts>
+<PROC_flagSendByEmail>0</PROC_flagSendByEmail>
+<PROC_BA_EmailAddr> </PROC_BA_EmailAddr>
+<PROC_wo_type>ADJ</PROC_wo_type>
+<PROC_FlagNewClient>0</PROC_FlagNewClient>
+<PROC_BA_Province>ON</PROC_BA_Province>
+<PROC_BA_zip>M2J 4P8</PROC_BA_zip>
+<PROC_BA_city>NORTH YORK</PROC_BA_city>
+<PROC_InvoiceType>0</PROC_InvoiceType>
+<PROC_FlgDisplayCL>1</PROC_FlgDisplayCL>
+<PROC_CustomerType>R</PROC_CustomerType>
+<PROC_FlagVoxcom>0</PROC_FlagVoxcom>
+<PROC_FlagLTBS>0</PROC_FlagLTBS>
+<PROC_FlgInsertLetterNo>0</PROC_FlgInsertLetterNo>
+<PROC_UENo> </PROC_UENo>
+<PROC_flagToSendToProtectron>0</PROC_flagToSendToProtectron>
+<PROC_strCIE>HQ</PROC_strCIE>
+</CONTROLE>
+<HEADER>
+<ENTETE_OCR>0000003955 00028221300002  0000000282923289 0000000000000000 00415 00</ENTETE_OCR>
+<ENTETE_d_invoice_number>28292328</ENTETE_d_invoice_number>
+<ENTETE_d_customer_number>RLC01992</ENTETE_d_customer_number>
+<ENTETE_ACC_number>RLC00002</ENTETE_ACC_number>
+<ENTETE_d_invoice_date>2013 09 05</ENTETE_d_invoice_date>
+<ENTETE_due_date> </ENTETE_due_date>
+<ENTETE_d_invoice_amount>39.55</ENTETE_d_invoice_amount>
+<ENTETE_d_bal_amount>39.55</ENTETE_d_bal_amount>
+<ENTETE_InvoicePeriod> </ENTETE_InvoicePeriod>
+<ENTETE_electronic_ACC>  Number for electronic payment 28221300002000000000</ENTETE_electronic_ACC>
+<ENTETE_ba_iname> </ENTETE_ba_iname>
+<ENTETE_ba_fname> </ENTETE_ba_fname>
+<ENTETE_ba_name>RELIANCE HOME COMFORT</ENTETE_ba_name>
+<ENTETE_ba_contact> </ENTETE_ba_contact>
+<ENTETE_ba_str1no1>2</ENTETE_ba_str1no1>
+<ENTETE_ba_street1>LANSING SQUARE</ENTETE_ba_street1>
+<ENTETE_ba_str1no2> </ENTETE_ba_str1no2>
+<ENTETE_ba_street2>12 TH FLOOR</ENTETE_ba_street2>
+<ENTETE_ba_city>NORTH YORK</ENTETE_ba_city>
+<ENTETE_ba_state>ON</ENTETE_ba_state>
+<ENTETE_ba_zip>M2J 4P8</ENTETE_ba_zip>
+<ENTETE_TextCustomerNumber>Customer Number</ENTETE_TextCustomerNumber>
+<ENTETE_TextInvoiceNumber>Invoice Number</ENTETE_TextInvoiceNumber>
+<ENTETE_InvoiceRef>000000000</ENTETE_InvoiceRef>
+<ENTETE_TextInvoiceDate>INVOICE DATE</ENTETE_TextInvoiceDate>
+<ENTETE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</ENTETE_TextPayableAt>
+<ENTETE_TextEntryNumber>________Entry Number_________</ENTETE_TextEntryNumber>
+<ENTETE_TextInvoiceRef>Invoice Ref.</ENTETE_TextInvoiceRef>
+<ENTETE_TextCustomerRef>Customer Ref.</ENTETE_TextCustomerRef>
+<ENTETE_CustomerRef>28221300002</ENTETE_CustomerRef>
+<ENTETE_TextAmountDue>AMOUNT DUE</ENTETE_TextAmountDue>
+<ENTETE_InvoiceTitle>INVOICE</ENTETE_InvoiceTitle>
+</HEADER>
+<ADDRESSES>
+<ADDRESSES_da_iname> </ADDRESSES_da_iname>
+<ADDRESSES_da_fname>GURJEET</ADDRESSES_da_fname>
+<ADDRESSES_da_name>CHARLOTRA</ADDRESSES_da_name>
+<ADDRESSES_da_str1no1>10</ADDRESSES_da_str1no1>
+<ADDRESSES_da_street1>NORTHFACE CRESCENT</ADDRESSES_da_street1>
+<ADDRESSES_da_str1no2> </ADDRESSES_da_str1no2>
+<ADDRESSES_da_street2> </ADDRESSES_da_street2>
+<ADDRESSES_da_city>BRAMPTON</ADDRESSES_da_city>
+<ADDRESSES_da_state>ON</ADDRESSES_da_state>
+<ADDRESSES_da_zip>L6R 2X9</ADDRESSES_da_zip>
+<ADDRESSES_cb_miscflgs>          </ADDRESSES_cb_miscflgs>
+<ADDRESSES_ba_iname> </ADDRESSES_ba_iname>
+<ADDRESSES_ba_fname> </ADDRESSES_ba_fname>
+<ADDRESSES_ba_name>RELIANCE HOME COMFORT</ADDRESSES_ba_name>
+<ADDRESSES_ba_contact> </ADDRESSES_ba_contact>
+<ADDRESSES_ba_str1no1>2</ADDRESSES_ba_str1no1>
+<ADDRESSES_ba_street1>LANSING SQUARE</ADDRESSES_ba_street1>
+<ADDRESSES_ba_str1no2> </ADDRESSES_ba_str1no2>
+<ADDRESSES_ba_street2>12 TH FLOOR</ADDRESSES_ba_street2>
+<ADDRESSES_ba_city>NORTH YORK</ADDRESSES_ba_city>
+<ADDRESSES_ba_state>ON</ADDRESSES_ba_state>
+<ADDRESSES_ba_zip>M2J 4P8</ADDRESSES_ba_zip>
+<ADDRESSES_TextKeepThisPortion>KEEP THIS PORTION</ADDRESSES_TextKeepThisPortion>
+<ADDRESSES_TextSoldTo>BILL TO:</ADDRESSES_TextSoldTo>
+<ADDRESSES_TextDeliveryTo>SERVICE ADDRESS:</ADDRESSES_TextDeliveryTo>
+<ADDRESSES_TextDescription>DESCRIPTION</ADDRESSES_TextDescription>
+<ADDRESSES_TextPresentAvis>If you have already mailed your payment, please disregard this notice</ADDRESSES_TextPresentAvis>
+<ADDRESSES_d_invoice_date>2013/09/05</ADDRESSES_d_invoice_date>
+<ADDRESSES_TextInvoiceDate>Invoice Date</ADDRESSES_TextInvoiceDate>
+<ADDRESSES_TextCustomerNumber>Customer Number</ADDRESSES_TextCustomerNumber>
+<ADDRESSES_d_customer_number>RLC01992</ADDRESSES_d_customer_number>
+<ADDRESSES_d_invoice_number>28292328</ADDRESSES_d_invoice_number>
+<ADDRESSES_TextInvoiceNumber>Invoice Number</ADDRESSES_TextInvoiceNumber>
+<ADDRESSES_TextInvoicingDueDate>Payable upon receipt</ADDRESSES_TextInvoicingDueDate>
+<ADDRESSES_d_invoice_amount>39.55</ADDRESSES_d_invoice_amount>
+<ADDRESSES_TextAmountDue>Amount due</ADDRESSES_TextAmountDue>
+<ADDRESSES_TextWONumber>W.O. Number</ADDRESSES_TextWONumber>
+<ADDRESSES_WONumber>6000236</ADDRESSES_WONumber>
+<ADDRESSES_TextPONumber>P.O. Number</ADDRESSES_TextPONumber>
+<ADDRESSES_PONumber> </ADDRESSES_PONumber>
+<ADDRESSES_TextCallNumber>Call Number</ADDRESSES_TextCallNumber>
+<ADDRESSES_CallNumber>0</ADDRESSES_CallNumber>
+<ADDRESSES_TextTicketNumber>Ticket Number</ADDRESSES_TextTicketNumber>
+<ADDRESSES_invRef> </ADDRESSES_invRef>
+<ADDRESSES_TextListeAppel> CALL LIST ON REVERSE SIDE</ADDRESSES_TextListeAppel>
+</ADDRESSES>
+<INVOICE_DETAIL>
+<ITEM_HEADER>
+<ITEM_HEADER_TextMSGP1>Adjustment/Credit invoice</ITEM_HEADER_TextMSGP1>
+<ITEM_HEADER_Text2MSGP1>Details on next page.</ITEM_HEADER_Text2MSGP1>
+<ITEM_HEADER_TextSousTotal>Sub-Total</ITEM_HEADER_TextSousTotal>
+<ITEM_HEADER_SousTotal>35.00</ITEM_HEADER_SousTotal>
+<ITEM_HEADER_TextTax1>HST-ON</ITEM_HEADER_TextTax1>
+<ITEM_HEADER_NoTax1>121314496</ITEM_HEADER_NoTax1>
+<ITEM_HEADER_Tax1>4.55</ITEM_HEADER_Tax1>
+<ITEM_HEADER_TextTax2> </ITEM_HEADER_TextTax2>
+<ITEM_HEADER_NoTax2> </ITEM_HEADER_NoTax2>
+<ITEM_HEADER_Tax2> </ITEM_HEADER_Tax2>
+<ITEM_HEADER_TextTotal>Total invoice</ITEM_HEADER_TextTotal>
+<ITEM_HEADER_Total>39.55</ITEM_HEADER_Total>
+<ITEM_HEADER_TextSoldePrecedent> </ITEM_HEADER_TextSoldePrecedent>
+<ITEM_HEADER_SoldePrecedent> </ITEM_HEADER_SoldePrecedent>
+<ITEM_HEADER_TextDownPayment> </ITEM_HEADER_TextDownPayment>
+<ITEM_HEADER_DownPayment> </ITEM_HEADER_DownPayment>
+</ITEM_HEADER>
+<ITEM>
+<ITEM_code>RADJ001-48  </ITEM_code>
+<ITEM_description>ADJ 001-48 - BASIC MONITORING RES 48 M</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292328</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000236</ITEM_s_wo>
+<ITEM_CountItems>4</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per>2.</ITEM_rev_per>
+<ITEM_rev_to_date>2013/11/24</ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/10/01</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>RADJ109-SBRS</ITEM_code>
+<ITEM_description>ADJ 109-SBRS - SILVER WARRANTY BASIC RS BATT N/I</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>2</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292328</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000236</ITEM_s_wo>
+<ITEM_CountItems>4</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per>2.</ITEM_rev_per>
+<ITEM_rev_to_date>2013/11/24</ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/10/01</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>RADJ800     </ITEM_code>
+<ITEM_description>ADJ 800 - SERVICE ADJ</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>3</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292328</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000236</ITEM_s_wo>
+<ITEM_CountItems>4</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per>2.</ITEM_rev_per>
+<ITEM_rev_to_date>2013/11/24</ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/10/01</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>#           </ITEM_code>
+<ITEM_description>ADJUSTMENT OF THE CREDIT APPLIED TO THE ACCOUNT</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292328</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000236</ITEM_s_wo>
+<ITEM_CountItems>4</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date> </ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+</INVOICE_DETAIL>
+<MESSAGES>
+<MESSAGE_TextPresentAvis>If you have already mailed your payment, please disregard this notice</MESSAGE_TextPresentAvis>
+<MESSAGE_TextAgentAutorise> </MESSAGE_TextAgentAutorise>
+<MESSAGE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</MESSAGE_TextPayableAt>
+<MESSAGE_TextVousDemenager>Are you moving?</MESSAGE_TextVousDemenager>
+<MESSAGE_TextVousDemenager2>Don't forget to let us know in advance. Contact us during regular business hours:</MESSAGE_TextVousDemenager2>
+<MESSAGE_TextPromotion>PROMOTION</MESSAGE_TextPromotion>
+<MESSAGE_TextPromotion2>For your convenience, make your payments directly from your bank account or on your credit card</MESSAGE_TextPromotion2>
+<MESSAGE_TextSansFrais> </MESSAGE_TextSansFrais>
+<MESSAGE_TextSansFrais2> </MESSAGE_TextSansFrais2>
+<MESSAGE_TextAvis>Visit our new website at : www.protectron.com</MESSAGE_TextAvis>
+<MESSAGE_TextCieService> </MESSAGE_TextCieService>
+<MESSAGE_cie_service_phone> </MESSAGE_cie_service_phone>
+<MESSAGE_TextSAC>Customer Service</MESSAGE_TextSAC>
+<MESSAGE_SAC_phone>1-800-653-9111</MESSAGE_SAC_phone>
+<MESSAGE_SAC_phone2> </MESSAGE_SAC_phone2>
+<MESSAGE_Text_OR> </MESSAGE_Text_OR>
+<MESSAGE_TextFacturePayable_A>Please remit payment to:</MESSAGE_TextFacturePayable_A>
+<MESSAGE_TextProtectron_addr1>Reliance Protectron  Inc.</MESSAGE_TextProtectron_addr1>
+<MESSAGE_TextProtectron_addr2>8481 Langelier</MESSAGE_TextProtectron_addr2>
+<MESSAGE_TextProtectron_addr3>Montreal, Quebec</MESSAGE_TextProtectron_addr3>
+<MESSAGE_TextProtectron_addr4>H1P 2C3</MESSAGE_TextProtectron_addr4>
+</MESSAGES>
+<CALL_LIST>
+<CL_PERSON>
+<CL_name>CHALOTRA GURJEET</CL_name>
+<CL_phone1>416-846-9701</CL_phone1>
+<CL_phtyp1>CEL</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>DR. RAJ KHANUJA</CL_name>
+<CL_phone1>000-000-0000</CL_phone1>
+<CL_phtyp1>RES</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>CHALOTRA NAVJEET</CL_name>
+<CL_phone1>416-846-9701</CL_phone1>
+<CL_phtyp1>CEL</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>NEIL KHANJUA</CL_name>
+<CL_phone1>905-654-5640</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>NEIL KHANJUA</CL_name>
+<CL_phone1>905-783-2273</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_MESSAGE>
+<s_ins>20389104</s_ins>
+<s_addr>20843910</s_addr>
+<street1no1>10</street1no1>
+<street1>NORTHFACE CRESCENT</street1>
+<street1no2> </street1no2>
+<street2> </street2>
+<city>BRAMPTON</city>
+<zip>L6R 2X9</zip>
+<state>ON</state>
+<s_ctr>20223909</s_ctr>
+<s_lang>8</s_lang>
+<s_acc>15324364</s_acc>
+<ba_s_br>1403</ba_s_br>
+<ba_br>0200</ba_br>
+<CL_EmergencyPhoneList>613 725-2803 or 800 746-7212</CL_EmergencyPhoneList>
+<CL_TextEmergencyCallList>EMERGENCY CALL LIST</CL_TextEmergencyCallList>
+<CL_TextContactListAddr>The Following individuals will be contacted if the alarm system is triggered for the following address :</CL_TextContactListAddr>
+<CL_TextNotValidNames>If applicable, please strike out the names that are invalid or add new names to the list.</CL_TextNotValidNames>
+<CL_TexCurrentList>Current List(RLC01992)</CL_TexCurrentList>
+<CL_TextProposedChanges>Proposed Changes</CL_TextProposedChanges>
+<CL_TextNo>#</CL_TextNo>
+<CL_TextName>Name</CL_TextName>
+<CL_TextPhone>Telephone</CL_TextPhone>
+<CL_TextType>Type</CL_TextType>
+<CL_TextPhoneType1>Telephone types :</CL_TextPhoneType1>
+<CL_TextPhoneType2>(BUS: Office) (CEL : Cellular) (PAG : Pager) (RES : Residence) (CHA : Secondary Residence)</CL_TextPhoneType2>
+<CL_TextNotice>Notice to customers that own a system that offers the possibility of programming alarm cancellations (Cancel Alarm) : The monitoring station will not</CL_TextNotice>
+<CL_TextNotice2>proceed the alarm if it has been cancelled by the customer himself using the keypad within moments following the alarm.</CL_TextNotice2>
+<CL_TextSignature>Please sign and return this form either by mail or fax</CL_TextSignature>
+<CL_TextSignature2>If we have not received a response within two(2) weeks, we will consider that the information above is correct and that your file is complete.</CL_TextSignature2>
+<CL_TextSignature3>Any specific detail or modification done to this file, cancels and replaces all previous agreements or standard protocol.</CL_TextSignature3>
+<CL_TextSignature4>Please fill in block letters the name of the individual authorized to modify customer's file :______</CL_TextSignature4>
+<CL_TextSignature5>Date :_____________________ Signature:________________________</CL_TextSignature5>
+<ba_s_lang>8</ba_s_lang>
+</CL_MESSAGE>
+</CALL_LIST>
+</INVOICE>
+<INVOICE>
+<CONTROLE>
+<PROC_FlagReturnEnvelopType>1</PROC_FlagReturnEnvelopType>
+<PROC_FlagShippingEnvelop>1</PROC_FlagShippingEnvelop>
+<PROC_BA_acc_no>RLC00002</PROC_BA_acc_no>
+<PROC_BA_Branch>0200</PROC_BA_Branch>
+<PROC_BA_lang>8</PROC_BA_lang>
+<PROC_FlagPrintPaper>0</PROC_FlagPrintPaper>
+<PROC_FlagShowAmounts>1</PROC_FlagShowAmounts>
+<PROC_flagSendByEmail>0</PROC_flagSendByEmail>
+<PROC_BA_EmailAddr> </PROC_BA_EmailAddr>
+<PROC_wo_type>SERV</PROC_wo_type>
+<PROC_FlagNewClient>0</PROC_FlagNewClient>
+<PROC_BA_Province>ON</PROC_BA_Province>
+<PROC_BA_zip>M2J 4P8</PROC_BA_zip>
+<PROC_BA_city>NORTH YORK</PROC_BA_city>
+<PROC_InvoiceType>0</PROC_InvoiceType>
+<PROC_FlgDisplayCL>1</PROC_FlgDisplayCL>
+<PROC_CustomerType>R</PROC_CustomerType>
+<PROC_FlagVoxcom>0</PROC_FlagVoxcom>
+<PROC_FlagLTBS>0</PROC_FlagLTBS>
+<PROC_FlgInsertLetterNo>0</PROC_FlgInsertLetterNo>
+<PROC_UENo> </PROC_UENo>
+<PROC_flagToSendToProtectron>0</PROC_flagToSendToProtectron>
+<PROC_strCIE>HQ</PROC_strCIE>
+</CONTROLE>
+<HEADER>
+<ENTETE_OCR>0000000000 00028221300002  0000000282923297 0000000000000000 00415 00</ENTETE_OCR>
+<ENTETE_d_invoice_number>28292329</ENTETE_d_invoice_number>
+<ENTETE_d_customer_number>RLC02256</ENTETE_d_customer_number>
+<ENTETE_ACC_number>RLC00002</ENTETE_ACC_number>
+<ENTETE_d_invoice_date>2013 09 05</ENTETE_d_invoice_date>
+<ENTETE_due_date> </ENTETE_due_date>
+<ENTETE_d_invoice_amount>0.00</ENTETE_d_invoice_amount>
+<ENTETE_d_bal_amount>0.00</ENTETE_d_bal_amount>
+<ENTETE_InvoicePeriod> </ENTETE_InvoicePeriod>
+<ENTETE_electronic_ACC>  Number for electronic payment 28221300002000000000</ENTETE_electronic_ACC>
+<ENTETE_ba_iname> </ENTETE_ba_iname>
+<ENTETE_ba_fname> </ENTETE_ba_fname>
+<ENTETE_ba_name>RELIANCE HOME COMFORT</ENTETE_ba_name>
+<ENTETE_ba_contact> </ENTETE_ba_contact>
+<ENTETE_ba_str1no1>2</ENTETE_ba_str1no1>
+<ENTETE_ba_street1>LANSING SQUARE</ENTETE_ba_street1>
+<ENTETE_ba_str1no2> </ENTETE_ba_str1no2>
+<ENTETE_ba_street2>12 TH FLOOR</ENTETE_ba_street2>
+<ENTETE_ba_city>NORTH YORK</ENTETE_ba_city>
+<ENTETE_ba_state>ON</ENTETE_ba_state>
+<ENTETE_ba_zip>M2J 4P8</ENTETE_ba_zip>
+<ENTETE_TextCustomerNumber>Customer Number</ENTETE_TextCustomerNumber>
+<ENTETE_TextInvoiceNumber>Invoice Number</ENTETE_TextInvoiceNumber>
+<ENTETE_InvoiceRef>000000000</ENTETE_InvoiceRef>
+<ENTETE_TextInvoiceDate>INVOICE DATE</ENTETE_TextInvoiceDate>
+<ENTETE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</ENTETE_TextPayableAt>
+<ENTETE_TextEntryNumber>________Entry Number_________</ENTETE_TextEntryNumber>
+<ENTETE_TextInvoiceRef>Invoice Ref.</ENTETE_TextInvoiceRef>
+<ENTETE_TextCustomerRef>Customer Ref.</ENTETE_TextCustomerRef>
+<ENTETE_CustomerRef>28221300002</ENTETE_CustomerRef>
+<ENTETE_TextAmountDue>AMOUNT DUE</ENTETE_TextAmountDue>
+<ENTETE_InvoiceTitle>INVOICE</ENTETE_InvoiceTitle>
+</HEADER>
+<ADDRESSES>
+<ADDRESSES_da_iname> </ADDRESSES_da_iname>
+<ADDRESSES_da_fname>DANIELLE</ADDRESSES_da_fname>
+<ADDRESSES_da_name>WILLIAMS</ADDRESSES_da_name>
+<ADDRESSES_da_str1no1>2039</ADDRESSES_da_str1no1>
+<ADDRESSES_da_street1>LAKESHORE ROAD</ADDRESSES_da_street1>
+<ADDRESSES_da_str1no2> </ADDRESSES_da_str1no2>
+<ADDRESSES_da_street2> </ADDRESSES_da_street2>
+<ADDRESSES_da_city>SARNIA</ADDRESSES_da_city>
+<ADDRESSES_da_state>ON</ADDRESSES_da_state>
+<ADDRESSES_da_zip>N7X 1G4</ADDRESSES_da_zip>
+<ADDRESSES_cb_miscflgs>          </ADDRESSES_cb_miscflgs>
+<ADDRESSES_ba_iname> </ADDRESSES_ba_iname>
+<ADDRESSES_ba_fname> </ADDRESSES_ba_fname>
+<ADDRESSES_ba_name>RELIANCE HOME COMFORT</ADDRESSES_ba_name>
+<ADDRESSES_ba_contact> </ADDRESSES_ba_contact>
+<ADDRESSES_ba_str1no1>2</ADDRESSES_ba_str1no1>
+<ADDRESSES_ba_street1>LANSING SQUARE</ADDRESSES_ba_street1>
+<ADDRESSES_ba_str1no2> </ADDRESSES_ba_str1no2>
+<ADDRESSES_ba_street2>12 TH FLOOR</ADDRESSES_ba_street2>
+<ADDRESSES_ba_city>NORTH YORK</ADDRESSES_ba_city>
+<ADDRESSES_ba_state>ON</ADDRESSES_ba_state>
+<ADDRESSES_ba_zip>M2J 4P8</ADDRESSES_ba_zip>
+<ADDRESSES_TextKeepThisPortion>KEEP THIS PORTION</ADDRESSES_TextKeepThisPortion>
+<ADDRESSES_TextSoldTo>BILL TO:</ADDRESSES_TextSoldTo>
+<ADDRESSES_TextDeliveryTo>SERVICE ADDRESS:</ADDRESSES_TextDeliveryTo>
+<ADDRESSES_TextDescription>DESCRIPTION</ADDRESSES_TextDescription>
+<ADDRESSES_TextPresentAvis>If you have already mailed your payment, please disregard this notice</ADDRESSES_TextPresentAvis>
+<ADDRESSES_d_invoice_date>2013/09/05</ADDRESSES_d_invoice_date>
+<ADDRESSES_TextInvoiceDate>Invoice Date</ADDRESSES_TextInvoiceDate>
+<ADDRESSES_TextCustomerNumber>Customer Number</ADDRESSES_TextCustomerNumber>
+<ADDRESSES_d_customer_number>RLC02256</ADDRESSES_d_customer_number>
+<ADDRESSES_d_invoice_number>28292329</ADDRESSES_d_invoice_number>
+<ADDRESSES_TextInvoiceNumber>Invoice Number</ADDRESSES_TextInvoiceNumber>
+<ADDRESSES_TextInvoicingDueDate>Do not pay this invoice</ADDRESSES_TextInvoicingDueDate>
+<ADDRESSES_d_invoice_amount>0.00</ADDRESSES_d_invoice_amount>
+<ADDRESSES_TextAmountDue>Amount due</ADDRESSES_TextAmountDue>
+<ADDRESSES_TextWONumber>W.O. Number</ADDRESSES_TextWONumber>
+<ADDRESSES_WONumber>6002484</ADDRESSES_WONumber>
+<ADDRESSES_TextPONumber>P.O. Number</ADDRESSES_TextPONumber>
+<ADDRESSES_PONumber> </ADDRESSES_PONumber>
+<ADDRESSES_TextCallNumber>Call Number</ADDRESSES_TextCallNumber>
+<ADDRESSES_CallNumber>3206341</ADDRESSES_CallNumber>
+<ADDRESSES_TextTicketNumber>Ticket Number</ADDRESSES_TextTicketNumber>
+<ADDRESSES_invRef>3206341</ADDRESSES_invRef>
+<ADDRESSES_TextListeAppel> CALL LIST ON REVERSE SIDE</ADDRESSES_TextListeAppel>
+</ADDRESSES>
+<INVOICE_DETAIL>
+<ITEM_HEADER>
+<ITEM_HEADER_TextMSGP1>Service call:</ITEM_HEADER_TextMSGP1>
+<ITEM_HEADER_Text2MSGP1>Details on next page.</ITEM_HEADER_Text2MSGP1>
+<ITEM_HEADER_TextSousTotal>Sub-Total</ITEM_HEADER_TextSousTotal>
+<ITEM_HEADER_SousTotal>0.00</ITEM_HEADER_SousTotal>
+<ITEM_HEADER_TextTax1> </ITEM_HEADER_TextTax1>
+<ITEM_HEADER_NoTax1> </ITEM_HEADER_NoTax1>
+<ITEM_HEADER_Tax1> </ITEM_HEADER_Tax1>
+<ITEM_HEADER_TextTax2> </ITEM_HEADER_TextTax2>
+<ITEM_HEADER_NoTax2> </ITEM_HEADER_NoTax2>
+<ITEM_HEADER_Tax2> </ITEM_HEADER_Tax2>
+<ITEM_HEADER_TextTotal>Total invoice</ITEM_HEADER_TextTotal>
+<ITEM_HEADER_Total>0.00</ITEM_HEADER_Total>
+<ITEM_HEADER_TextSoldePrecedent> </ITEM_HEADER_TextSoldePrecedent>
+<ITEM_HEADER_SoldePrecedent> </ITEM_HEADER_SoldePrecedent>
+<ITEM_HEADER_TextDownPayment> </ITEM_HEADER_TextDownPayment>
+<ITEM_HEADER_DownPayment> </ITEM_HEADER_DownPayment>
+</ITEM_HEADER>
+<ITEM>
+<ITEM_code>MDO         </ITEM_code>
+<ITEM_description>LABOR</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292329</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6002484</ITEM_s_wo>
+<ITEM_CountItems>1</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/09/04</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+</INVOICE_DETAIL>
+<MESSAGES>
+<MESSAGE_TextPresentAvis>If you have already mailed your payment, please disregard this notice</MESSAGE_TextPresentAvis>
+<MESSAGE_TextAgentAutorise> </MESSAGE_TextAgentAutorise>
+<MESSAGE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</MESSAGE_TextPayableAt>
+<MESSAGE_TextVousDemenager>Are you moving?</MESSAGE_TextVousDemenager>
+<MESSAGE_TextVousDemenager2>Don't forget to let us know in advance. Contact us during regular business hours:</MESSAGE_TextVousDemenager2>
+<MESSAGE_TextPromotion>PROMOTION</MESSAGE_TextPromotion>
+<MESSAGE_TextPromotion2>For your convenience, make your payments directly from your bank account or on your credit card</MESSAGE_TextPromotion2>
+<MESSAGE_TextSansFrais> </MESSAGE_TextSansFrais>
+<MESSAGE_TextSansFrais2> </MESSAGE_TextSansFrais2>
+<MESSAGE_TextAvis>Visit our new website at : www.protectron.com</MESSAGE_TextAvis>
+<MESSAGE_TextCieService> </MESSAGE_TextCieService>
+<MESSAGE_cie_service_phone> </MESSAGE_cie_service_phone>
+<MESSAGE_TextSAC>Customer Service</MESSAGE_TextSAC>
+<MESSAGE_SAC_phone>1-800-653-9111</MESSAGE_SAC_phone>
+<MESSAGE_SAC_phone2> </MESSAGE_SAC_phone2>
+<MESSAGE_Text_OR> </MESSAGE_Text_OR>
+<MESSAGE_TextFacturePayable_A>Please remit payment to:</MESSAGE_TextFacturePayable_A>
+<MESSAGE_TextProtectron_addr1>Reliance Protectron  Inc.</MESSAGE_TextProtectron_addr1>
+<MESSAGE_TextProtectron_addr2>8481 Langelier</MESSAGE_TextProtectron_addr2>
+<MESSAGE_TextProtectron_addr3>Montreal, Quebec</MESSAGE_TextProtectron_addr3>
+<MESSAGE_TextProtectron_addr4>H1P 2C3</MESSAGE_TextProtectron_addr4>
+</MESSAGES>
+<CALL_LIST>
+<CL_PERSON>
+<CL_name>DANIELLE WILLIAMS</CL_name>
+<CL_phone1>519-312-2365</CL_phone1>
+<CL_phtyp1>CEL</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>VIVIAN WILLIAMS</CL_name>
+<CL_phone1>519-336-8149</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>VIVIAN WILLIAMS</CL_name>
+<CL_phone1>519-312-2364</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_MESSAGE>
+<s_ins>20396773</s_ins>
+<s_addr>20889742</s_addr>
+<street1no1>2039</street1no1>
+<street1>LAKESHORE ROAD</street1>
+<street1no2> </street1no2>
+<street2> </street2>
+<city>SARNIA</city>
+<zip>N7X 1G4</zip>
+<state>ON</state>
+<s_ctr>20230796</s_ctr>
+<s_lang>8</s_lang>
+<s_acc>15324364</s_acc>
+<ba_s_br>1403</ba_s_br>
+<ba_br>0200</ba_br>
+<CL_EmergencyPhoneList>613 725-2803 or 800 746-7212</CL_EmergencyPhoneList>
+<CL_TextEmergencyCallList>EMERGENCY CALL LIST</CL_TextEmergencyCallList>
+<CL_TextContactListAddr>The Following individuals will be contacted if the alarm system is triggered for the following address :</CL_TextContactListAddr>
+<CL_TextNotValidNames>If applicable, please strike out the names that are invalid or add new names to the list.</CL_TextNotValidNames>
+<CL_TexCurrentList>Current List(RLC02256)</CL_TexCurrentList>
+<CL_TextProposedChanges>Proposed Changes</CL_TextProposedChanges>
+<CL_TextNo>#</CL_TextNo>
+<CL_TextName>Name</CL_TextName>
+<CL_TextPhone>Telephone</CL_TextPhone>
+<CL_TextType>Type</CL_TextType>
+<CL_TextPhoneType1>Telephone types :</CL_TextPhoneType1>
+<CL_TextPhoneType2>(BUS: Office) (CEL : Cellular) (PAG : Pager) (RES : Residence) (CHA : Secondary Residence)</CL_TextPhoneType2>
+<CL_TextNotice>Notice to customers that own a system that offers the possibility of programming alarm cancellations (Cancel Alarm) : The monitoring station will not</CL_TextNotice>
+<CL_TextNotice2>proceed the alarm if it has been cancelled by the customer himself using the keypad within moments following the alarm.</CL_TextNotice2>
+<CL_TextSignature>Please sign and return this form either by mail or fax</CL_TextSignature>
+<CL_TextSignature2>If we have not received a response within two(2) weeks, we will consider that the information above is correct and that your file is complete.</CL_TextSignature2>
+<CL_TextSignature3>Any specific detail or modification done to this file, cancels and replaces all previous agreements or standard protocol.</CL_TextSignature3>
+<CL_TextSignature4>Please fill in block letters the name of the individual authorized to modify customer's file :______</CL_TextSignature4>
+<CL_TextSignature5>Date :_____________________ Signature:________________________</CL_TextSignature5>
+<ba_s_lang>8</ba_s_lang>
+</CL_MESSAGE>
+</CALL_LIST>
+</INVOICE>
+<INVOICE>
+<CONTROLE>
+<PROC_FlagReturnEnvelopType>1</PROC_FlagReturnEnvelopType>
+<PROC_FlagShippingEnvelop>1</PROC_FlagShippingEnvelop>
+<PROC_BA_acc_no>RLC00002</PROC_BA_acc_no>
+<PROC_BA_Branch>0200</PROC_BA_Branch>
+<PROC_BA_lang>8</PROC_BA_lang>
+<PROC_FlagPrintPaper>0</PROC_FlagPrintPaper>
+<PROC_FlagShowAmounts>0</PROC_FlagShowAmounts>
+<PROC_flagSendByEmail>0</PROC_flagSendByEmail>
+<PROC_BA_EmailAddr> </PROC_BA_EmailAddr>
+<PROC_wo_type>ADJ</PROC_wo_type>
+<PROC_FlagNewClient>0</PROC_FlagNewClient>
+<PROC_BA_Province>ON</PROC_BA_Province>
+<PROC_BA_zip>M2J 4P8</PROC_BA_zip>
+<PROC_BA_city>NORTH YORK</PROC_BA_city>
+<PROC_InvoiceType>0</PROC_InvoiceType>
+<PROC_FlgDisplayCL>1</PROC_FlgDisplayCL>
+<PROC_CustomerType>R</PROC_CustomerType>
+<PROC_FlagVoxcom>0</PROC_FlagVoxcom>
+<PROC_FlagLTBS>0</PROC_FlagLTBS>
+<PROC_FlgInsertLetterNo>0</PROC_FlgInsertLetterNo>
+<PROC_UENo> </PROC_UENo>
+<PROC_flagToSendToProtectron>0</PROC_flagToSendToProtectron>
+<PROC_strCIE>HQ</PROC_strCIE>
+</CONTROLE>
+<HEADER>
+<ENTETE_OCR>0000003955 00028221300002  0000000282923301 0000000000000000 00415 00</ENTETE_OCR>
+<ENTETE_d_invoice_number>28292330</ENTETE_d_invoice_number>
+<ENTETE_d_customer_number>RLC01992</ENTETE_d_customer_number>
+<ENTETE_ACC_number>RLC00002</ENTETE_ACC_number>
+<ENTETE_d_invoice_date>2013 09 05</ENTETE_d_invoice_date>
+<ENTETE_due_date> </ENTETE_due_date>
+<ENTETE_d_invoice_amount>-39.55</ENTETE_d_invoice_amount>
+<ENTETE_d_bal_amount>0.00</ENTETE_d_bal_amount>
+<ENTETE_InvoicePeriod> </ENTETE_InvoicePeriod>
+<ENTETE_electronic_ACC>  Number for electronic payment 28221300002000000000</ENTETE_electronic_ACC>
+<ENTETE_ba_iname> </ENTETE_ba_iname>
+<ENTETE_ba_fname> </ENTETE_ba_fname>
+<ENTETE_ba_name>RELIANCE HOME COMFORT</ENTETE_ba_name>
+<ENTETE_ba_contact> </ENTETE_ba_contact>
+<ENTETE_ba_str1no1>2</ENTETE_ba_str1no1>
+<ENTETE_ba_street1>LANSING SQUARE</ENTETE_ba_street1>
+<ENTETE_ba_str1no2> </ENTETE_ba_str1no2>
+<ENTETE_ba_street2>12 TH FLOOR</ENTETE_ba_street2>
+<ENTETE_ba_city>NORTH YORK</ENTETE_ba_city>
+<ENTETE_ba_state>ON</ENTETE_ba_state>
+<ENTETE_ba_zip>M2J 4P8</ENTETE_ba_zip>
+<ENTETE_TextCustomerNumber>Customer Number</ENTETE_TextCustomerNumber>
+<ENTETE_TextInvoiceNumber>Invoice Number</ENTETE_TextInvoiceNumber>
+<ENTETE_InvoiceRef>000000000</ENTETE_InvoiceRef>
+<ENTETE_TextInvoiceDate>INVOICE DATE</ENTETE_TextInvoiceDate>
+<ENTETE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</ENTETE_TextPayableAt>
+<ENTETE_TextEntryNumber>________Entry Number_________</ENTETE_TextEntryNumber>
+<ENTETE_TextInvoiceRef>Invoice Ref.</ENTETE_TextInvoiceRef>
+<ENTETE_TextCustomerRef>Customer Ref.</ENTETE_TextCustomerRef>
+<ENTETE_CustomerRef>28221300002</ENTETE_CustomerRef>
+<ENTETE_TextAmountDue>AMOUNT DUE</ENTETE_TextAmountDue>
+<ENTETE_InvoiceTitle>INVOICE</ENTETE_InvoiceTitle>
+</HEADER>
+<ADDRESSES>
+<ADDRESSES_da_iname> </ADDRESSES_da_iname>
+<ADDRESSES_da_fname>GURJEET</ADDRESSES_da_fname>
+<ADDRESSES_da_name>CHARLOTRA</ADDRESSES_da_name>
+<ADDRESSES_da_str1no1>10</ADDRESSES_da_str1no1>
+<ADDRESSES_da_street1>NORTHFACE CRESCENT</ADDRESSES_da_street1>
+<ADDRESSES_da_str1no2> </ADDRESSES_da_str1no2>
+<ADDRESSES_da_street2> </ADDRESSES_da_street2>
+<ADDRESSES_da_city>BRAMPTON</ADDRESSES_da_city>
+<ADDRESSES_da_state>ON</ADDRESSES_da_state>
+<ADDRESSES_da_zip>L6R 2X9</ADDRESSES_da_zip>
+<ADDRESSES_cb_miscflgs>          </ADDRESSES_cb_miscflgs>
+<ADDRESSES_ba_iname> </ADDRESSES_ba_iname>
+<ADDRESSES_ba_fname> </ADDRESSES_ba_fname>
+<ADDRESSES_ba_name>RELIANCE HOME COMFORT</ADDRESSES_ba_name>
+<ADDRESSES_ba_contact> </ADDRESSES_ba_contact>
+<ADDRESSES_ba_str1no1>2</ADDRESSES_ba_str1no1>
+<ADDRESSES_ba_street1>LANSING SQUARE</ADDRESSES_ba_street1>
+<ADDRESSES_ba_str1no2> </ADDRESSES_ba_str1no2>
+<ADDRESSES_ba_street2>12 TH FLOOR</ADDRESSES_ba_street2>
+<ADDRESSES_ba_city>NORTH YORK</ADDRESSES_ba_city>
+<ADDRESSES_ba_state>ON</ADDRESSES_ba_state>
+<ADDRESSES_ba_zip>M2J 4P8</ADDRESSES_ba_zip>
+<ADDRESSES_TextKeepThisPortion>KEEP THIS PORTION</ADDRESSES_TextKeepThisPortion>
+<ADDRESSES_TextSoldTo>BILL TO:</ADDRESSES_TextSoldTo>
+<ADDRESSES_TextDeliveryTo>SERVICE ADDRESS:</ADDRESSES_TextDeliveryTo>
+<ADDRESSES_TextDescription>DESCRIPTION</ADDRESSES_TextDescription>
+<ADDRESSES_TextPresentAvis>If you have already mailed your payment, please disregard this notice</ADDRESSES_TextPresentAvis>
+<ADDRESSES_d_invoice_date>2013/09/05</ADDRESSES_d_invoice_date>
+<ADDRESSES_TextInvoiceDate>Invoice Date</ADDRESSES_TextInvoiceDate>
+<ADDRESSES_TextCustomerNumber>Customer Number</ADDRESSES_TextCustomerNumber>
+<ADDRESSES_d_customer_number>RLC01992</ADDRESSES_d_customer_number>
+<ADDRESSES_d_invoice_number>28292330</ADDRESSES_d_invoice_number>
+<ADDRESSES_TextInvoiceNumber>Invoice Number</ADDRESSES_TextInvoiceNumber>
+<ADDRESSES_TextInvoicingDueDate>Do not pay this invoice</ADDRESSES_TextInvoicingDueDate>
+<ADDRESSES_d_invoice_amount>-39.55</ADDRESSES_d_invoice_amount>
+<ADDRESSES_TextAmountDue>Amount due</ADDRESSES_TextAmountDue>
+<ADDRESSES_TextWONumber>W.O. Number</ADDRESSES_TextWONumber>
+<ADDRESSES_WONumber>6000208</ADDRESSES_WONumber>
+<ADDRESSES_TextPONumber>P.O. Number</ADDRESSES_TextPONumber>
+<ADDRESSES_PONumber> </ADDRESSES_PONumber>
+<ADDRESSES_TextCallNumber>Call Number</ADDRESSES_TextCallNumber>
+<ADDRESSES_CallNumber>0</ADDRESSES_CallNumber>
+<ADDRESSES_TextTicketNumber>Ticket Number</ADDRESSES_TextTicketNumber>
+<ADDRESSES_invRef> </ADDRESSES_invRef>
+<ADDRESSES_TextListeAppel> CALL LIST ON REVERSE SIDE</ADDRESSES_TextListeAppel>
+</ADDRESSES>
+<INVOICE_DETAIL>
+<ITEM_HEADER>
+<ITEM_HEADER_TextMSGP1>Adjustment/Credit invoice</ITEM_HEADER_TextMSGP1>
+<ITEM_HEADER_Text2MSGP1>Details on next page.</ITEM_HEADER_Text2MSGP1>
+<ITEM_HEADER_TextSousTotal>Sub-Total</ITEM_HEADER_TextSousTotal>
+<ITEM_HEADER_SousTotal>-35.00</ITEM_HEADER_SousTotal>
+<ITEM_HEADER_TextTax1>HST-ON</ITEM_HEADER_TextTax1>
+<ITEM_HEADER_NoTax1>121314496</ITEM_HEADER_NoTax1>
+<ITEM_HEADER_Tax1>-4.55</ITEM_HEADER_Tax1>
+<ITEM_HEADER_TextTax2> </ITEM_HEADER_TextTax2>
+<ITEM_HEADER_NoTax2> </ITEM_HEADER_NoTax2>
+<ITEM_HEADER_Tax2> </ITEM_HEADER_Tax2>
+<ITEM_HEADER_TextTotal>Total invoice</ITEM_HEADER_TextTotal>
+<ITEM_HEADER_Total>-39.55</ITEM_HEADER_Total>
+<ITEM_HEADER_TextSoldePrecedent> </ITEM_HEADER_TextSoldePrecedent>
+<ITEM_HEADER_SoldePrecedent> </ITEM_HEADER_SoldePrecedent>
+<ITEM_HEADER_TextDownPayment> </ITEM_HEADER_TextDownPayment>
+<ITEM_HEADER_DownPayment> </ITEM_HEADER_DownPayment>
+</ITEM_HEADER>
+<ITEM>
+<ITEM_code>RADJMCSAC   </ITEM_code>
+<ITEM_description>ADJ MC - CUSTOMER SERVICE / WRITE OFF</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292330</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000208</ITEM_s_wo>
+<ITEM_CountItems>2</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/09/03</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>#           </ITEM_code>
+<ITEM_description>WRITE OFF GOOD WILL CUSTOMER SERVICE</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292330</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000208</ITEM_s_wo>
+<ITEM_CountItems>2</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date> </ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+</INVOICE_DETAIL>
+<MESSAGES>
+<MESSAGE_TextPresentAvis>If you have already mailed your payment, please disregard this notice</MESSAGE_TextPresentAvis>
+<MESSAGE_TextAgentAutorise> </MESSAGE_TextAgentAutorise>
+<MESSAGE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</MESSAGE_TextPayableAt>
+<MESSAGE_TextVousDemenager>Are you moving?</MESSAGE_TextVousDemenager>
+<MESSAGE_TextVousDemenager2>Don't forget to let us know in advance. Contact us during regular business hours:</MESSAGE_TextVousDemenager2>
+<MESSAGE_TextPromotion>PROMOTION</MESSAGE_TextPromotion>
+<MESSAGE_TextPromotion2>For your convenience, make your payments directly from your bank account or on your credit card</MESSAGE_TextPromotion2>
+<MESSAGE_TextSansFrais> </MESSAGE_TextSansFrais>
+<MESSAGE_TextSansFrais2> </MESSAGE_TextSansFrais2>
+<MESSAGE_TextAvis>Visit our new website at : www.protectron.com</MESSAGE_TextAvis>
+<MESSAGE_TextCieService> </MESSAGE_TextCieService>
+<MESSAGE_cie_service_phone> </MESSAGE_cie_service_phone>
+<MESSAGE_TextSAC>Customer Service</MESSAGE_TextSAC>
+<MESSAGE_SAC_phone>1-800-653-9111</MESSAGE_SAC_phone>
+<MESSAGE_SAC_phone2> </MESSAGE_SAC_phone2>
+<MESSAGE_Text_OR> </MESSAGE_Text_OR>
+<MESSAGE_TextFacturePayable_A>Please remit payment to:</MESSAGE_TextFacturePayable_A>
+<MESSAGE_TextProtectron_addr1>Reliance Protectron  Inc.</MESSAGE_TextProtectron_addr1>
+<MESSAGE_TextProtectron_addr2>8481 Langelier</MESSAGE_TextProtectron_addr2>
+<MESSAGE_TextProtectron_addr3>Montreal, Quebec</MESSAGE_TextProtectron_addr3>
+<MESSAGE_TextProtectron_addr4>H1P 2C3</MESSAGE_TextProtectron_addr4>
+</MESSAGES>
+<CALL_LIST>
+<CL_PERSON>
+<CL_name>CHALOTRA GURJEET</CL_name>
+<CL_phone1>416-846-9701</CL_phone1>
+<CL_phtyp1>CEL</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>DR. RAJ KHANUJA</CL_name>
+<CL_phone1>000-000-0000</CL_phone1>
+<CL_phtyp1>RES</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>CHALOTRA NAVJEET</CL_name>
+<CL_phone1>416-846-9701</CL_phone1>
+<CL_phtyp1>CEL</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>NEIL KHANJUA</CL_name>
+<CL_phone1>905-654-5640</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>NEIL KHANJUA</CL_name>
+<CL_phone1>905-783-2273</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_MESSAGE>
+<s_ins>20389104</s_ins>
+<s_addr>20843910</s_addr>
+<street1no1>10</street1no1>
+<street1>NORTHFACE CRESCENT</street1>
+<street1no2> </street1no2>
+<street2> </street2>
+<city>BRAMPTON</city>
+<zip>L6R 2X9</zip>
+<state>ON</state>
+<s_ctr>20223909</s_ctr>
+<s_lang>8</s_lang>
+<s_acc>15324364</s_acc>
+<ba_s_br>1403</ba_s_br>
+<ba_br>0200</ba_br>
+<CL_EmergencyPhoneList>613 725-2803 or 800 746-7212</CL_EmergencyPhoneList>
+<CL_TextEmergencyCallList>EMERGENCY CALL LIST</CL_TextEmergencyCallList>
+<CL_TextContactListAddr>The Following individuals will be contacted if the alarm system is triggered for the following address :</CL_TextContactListAddr>
+<CL_TextNotValidNames>If applicable, please strike out the names that are invalid or add new names to the list.</CL_TextNotValidNames>
+<CL_TexCurrentList>Current List(RLC01992)</CL_TexCurrentList>
+<CL_TextProposedChanges>Proposed Changes</CL_TextProposedChanges>
+<CL_TextNo>#</CL_TextNo>
+<CL_TextName>Name</CL_TextName>
+<CL_TextPhone>Telephone</CL_TextPhone>
+<CL_TextType>Type</CL_TextType>
+<CL_TextPhoneType1>Telephone types :</CL_TextPhoneType1>
+<CL_TextPhoneType2>(BUS: Office) (CEL : Cellular) (PAG : Pager) (RES : Residence) (CHA : Secondary Residence)</CL_TextPhoneType2>
+<CL_TextNotice>Notice to customers that own a system that offers the possibility of programming alarm cancellations (Cancel Alarm) : The monitoring station will not</CL_TextNotice>
+<CL_TextNotice2>proceed the alarm if it has been cancelled by the customer himself using the keypad within moments following the alarm.</CL_TextNotice2>
+<CL_TextSignature>Please sign and return this form either by mail or fax</CL_TextSignature>
+<CL_TextSignature2>If we have not received a response within two(2) weeks, we will consider that the information above is correct and that your file is complete.</CL_TextSignature2>
+<CL_TextSignature3>Any specific detail or modification done to this file, cancels and replaces all previous agreements or standard protocol.</CL_TextSignature3>
+<CL_TextSignature4>Please fill in block letters the name of the individual authorized to modify customer's file :______</CL_TextSignature4>
+<CL_TextSignature5>Date :_____________________ Signature:________________________</CL_TextSignature5>
+<ba_s_lang>8</ba_s_lang>
+</CL_MESSAGE>
+</CALL_LIST>
+</INVOICE>
+<INVOICE>
+<CONTROLE>
+<PROC_FlagReturnEnvelopType>1</PROC_FlagReturnEnvelopType>
+<PROC_FlagShippingEnvelop>1</PROC_FlagShippingEnvelop>
+<PROC_BA_acc_no>RLC00002</PROC_BA_acc_no>
+<PROC_BA_Branch>0200</PROC_BA_Branch>
+<PROC_BA_lang>8</PROC_BA_lang>
+<PROC_FlagPrintPaper>1</PROC_FlagPrintPaper>
+<PROC_FlagShowAmounts>0</PROC_FlagShowAmounts>
+<PROC_flagSendByEmail>0</PROC_flagSendByEmail>
+<PROC_BA_EmailAddr> </PROC_BA_EmailAddr>
+<PROC_wo_type>REAJ</PROC_wo_type>
+<PROC_FlagNewClient>0</PROC_FlagNewClient>
+<PROC_BA_Province>ON</PROC_BA_Province>
+<PROC_BA_zip>M2J 4P8</PROC_BA_zip>
+<PROC_BA_city>NORTH YORK</PROC_BA_city>
+<PROC_InvoiceType>0</PROC_InvoiceType>
+<PROC_FlgDisplayCL>1</PROC_FlgDisplayCL>
+<PROC_CustomerType>R</PROC_CustomerType>
+<PROC_FlagVoxcom>0</PROC_FlagVoxcom>
+<PROC_FlagLTBS>0</PROC_FlagLTBS>
+<PROC_FlgInsertLetterNo>0</PROC_FlgInsertLetterNo>
+<PROC_UENo> </PROC_UENo>
+<PROC_flagToSendToProtectron>0</PROC_flagToSendToProtectron>
+<PROC_strCIE>HQ</PROC_strCIE>
+</CONTROLE>
+<HEADER>
+<ENTETE_OCR>0000003955 00028221300002  0000000282923319 0000000000000000 00415 00</ENTETE_OCR>
+<ENTETE_d_invoice_number>28292331</ENTETE_d_invoice_number>
+<ENTETE_d_customer_number>RLC01138</ENTETE_d_customer_number>
+<ENTETE_ACC_number>RLC00002</ENTETE_ACC_number>
+<ENTETE_d_invoice_date>2013 09 05</ENTETE_d_invoice_date>
+<ENTETE_due_date> </ENTETE_due_date>
+<ENTETE_d_invoice_amount>39.55</ENTETE_d_invoice_amount>
+<ENTETE_d_bal_amount>39.55</ENTETE_d_bal_amount>
+<ENTETE_InvoicePeriod> </ENTETE_InvoicePeriod>
+<ENTETE_electronic_ACC>  Number for electronic payment 28221300002000000000</ENTETE_electronic_ACC>
+<ENTETE_ba_iname> </ENTETE_ba_iname>
+<ENTETE_ba_fname> </ENTETE_ba_fname>
+<ENTETE_ba_name>RELIANCE HOME COMFORT</ENTETE_ba_name>
+<ENTETE_ba_contact> </ENTETE_ba_contact>
+<ENTETE_ba_str1no1>2</ENTETE_ba_str1no1>
+<ENTETE_ba_street1>LANSING SQUARE</ENTETE_ba_street1>
+<ENTETE_ba_str1no2> </ENTETE_ba_str1no2>
+<ENTETE_ba_street2>12 TH FLOOR</ENTETE_ba_street2>
+<ENTETE_ba_city>NORTH YORK</ENTETE_ba_city>
+<ENTETE_ba_state>ON</ENTETE_ba_state>
+<ENTETE_ba_zip>M2J 4P8</ENTETE_ba_zip>
+<ENTETE_TextCustomerNumber>Customer Number</ENTETE_TextCustomerNumber>
+<ENTETE_TextInvoiceNumber>Invoice Number</ENTETE_TextInvoiceNumber>
+<ENTETE_InvoiceRef>000000000</ENTETE_InvoiceRef>
+<ENTETE_TextInvoiceDate>INVOICE DATE</ENTETE_TextInvoiceDate>
+<ENTETE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</ENTETE_TextPayableAt>
+<ENTETE_TextEntryNumber>________Entry Number_________</ENTETE_TextEntryNumber>
+<ENTETE_TextInvoiceRef>Invoice Ref.</ENTETE_TextInvoiceRef>
+<ENTETE_TextCustomerRef>Customer Ref.</ENTETE_TextCustomerRef>
+<ENTETE_CustomerRef>28221300002</ENTETE_CustomerRef>
+<ENTETE_TextAmountDue>AMOUNT DUE</ENTETE_TextAmountDue>
+<ENTETE_InvoiceTitle>INVOICE</ENTETE_InvoiceTitle>
+</HEADER>
+<ADDRESSES>
+<ADDRESSES_da_iname> </ADDRESSES_da_iname>
+<ADDRESSES_da_fname>WEBER</ADDRESSES_da_fname>
+<ADDRESSES_da_name>WOLFGANG</ADDRESSES_da_name>
+<ADDRESSES_da_str1no1>384</ADDRESSES_da_str1no1>
+<ADDRESSES_da_street1>CAVENDISH DRIVE</ADDRESSES_da_street1>
+<ADDRESSES_da_str1no2> </ADDRESSES_da_str1no2>
+<ADDRESSES_da_street2> </ADDRESSES_da_street2>
+<ADDRESSES_da_city>WATERLOO</ADDRESSES_da_city>
+<ADDRESSES_da_state>ON</ADDRESSES_da_state>
+<ADDRESSES_da_zip>N2T 2N6</ADDRESSES_da_zip>
+<ADDRESSES_cb_miscflgs>          </ADDRESSES_cb_miscflgs>
+<ADDRESSES_ba_iname> </ADDRESSES_ba_iname>
+<ADDRESSES_ba_fname> </ADDRESSES_ba_fname>
+<ADDRESSES_ba_name>RELIANCE HOME COMFORT</ADDRESSES_ba_name>
+<ADDRESSES_ba_contact> </ADDRESSES_ba_contact>
+<ADDRESSES_ba_str1no1>2</ADDRESSES_ba_str1no1>
+<ADDRESSES_ba_street1>LANSING SQUARE</ADDRESSES_ba_street1>
+<ADDRESSES_ba_str1no2> </ADDRESSES_ba_str1no2>
+<ADDRESSES_ba_street2>12 TH FLOOR</ADDRESSES_ba_street2>
+<ADDRESSES_ba_city>NORTH YORK</ADDRESSES_ba_city>
+<ADDRESSES_ba_state>ON</ADDRESSES_ba_state>
+<ADDRESSES_ba_zip>M2J 4P8</ADDRESSES_ba_zip>
+<ADDRESSES_TextKeepThisPortion>KEEP THIS PORTION</ADDRESSES_TextKeepThisPortion>
+<ADDRESSES_TextSoldTo>BILL TO:</ADDRESSES_TextSoldTo>
+<ADDRESSES_TextDeliveryTo>SERVICE ADDRESS:</ADDRESSES_TextDeliveryTo>
+<ADDRESSES_TextDescription>DESCRIPTION</ADDRESSES_TextDescription>
+<ADDRESSES_TextPresentAvis>If you have already mailed your payment, please disregard this notice</ADDRESSES_TextPresentAvis>
+<ADDRESSES_d_invoice_date>2013/09/05</ADDRESSES_d_invoice_date>
+<ADDRESSES_TextInvoiceDate>Invoice Date</ADDRESSES_TextInvoiceDate>
+<ADDRESSES_TextCustomerNumber>Customer Number</ADDRESSES_TextCustomerNumber>
+<ADDRESSES_d_customer_number>RLC01138</ADDRESSES_d_customer_number>
+<ADDRESSES_d_invoice_number>28292331</ADDRESSES_d_invoice_number>
+<ADDRESSES_TextInvoiceNumber>Invoice Number</ADDRESSES_TextInvoiceNumber>
+<ADDRESSES_TextInvoicingDueDate>Payable upon receipt</ADDRESSES_TextInvoicingDueDate>
+<ADDRESSES_d_invoice_amount>39.55</ADDRESSES_d_invoice_amount>
+<ADDRESSES_TextAmountDue>Amount due</ADDRESSES_TextAmountDue>
+<ADDRESSES_TextWONumber>W.O. Number</ADDRESSES_TextWONumber>
+<ADDRESSES_WONumber>5999054</ADDRESSES_WONumber>
+<ADDRESSES_TextPONumber>P.O. Number</ADDRESSES_TextPONumber>
+<ADDRESSES_PONumber> </ADDRESSES_PONumber>
+<ADDRESSES_TextCallNumber>Call Number</ADDRESSES_TextCallNumber>
+<ADDRESSES_CallNumber>0</ADDRESSES_CallNumber>
+<ADDRESSES_TextTicketNumber>Ticket Number</ADDRESSES_TextTicketNumber>
+<ADDRESSES_invRef> </ADDRESSES_invRef>
+<ADDRESSES_TextListeAppel> CALL LIST ON REVERSE SIDE</ADDRESSES_TextListeAppel>
+</ADDRESSES>
+<INVOICE_DETAIL>
+<ITEM_HEADER>
+<ITEM_HEADER_TextMSGP1>RES AJOUT / ADDITION</ITEM_HEADER_TextMSGP1>
+<ITEM_HEADER_Text2MSGP1>Equipment details on next page.</ITEM_HEADER_Text2MSGP1>
+<ITEM_HEADER_TextSousTotal>Sub-Total</ITEM_HEADER_TextSousTotal>
+<ITEM_HEADER_SousTotal>35.00</ITEM_HEADER_SousTotal>
+<ITEM_HEADER_TextTax1>HST-ON</ITEM_HEADER_TextTax1>
+<ITEM_HEADER_NoTax1>121314496</ITEM_HEADER_NoTax1>
+<ITEM_HEADER_Tax1>4.55</ITEM_HEADER_Tax1>
+<ITEM_HEADER_TextTax2> </ITEM_HEADER_TextTax2>
+<ITEM_HEADER_NoTax2> </ITEM_HEADER_NoTax2>
+<ITEM_HEADER_Tax2> </ITEM_HEADER_Tax2>
+<ITEM_HEADER_TextTotal>Total invoice</ITEM_HEADER_TextTotal>
+<ITEM_HEADER_Total>39.55</ITEM_HEADER_Total>
+<ITEM_HEADER_TextSoldePrecedent> </ITEM_HEADER_TextSoldePrecedent>
+<ITEM_HEADER_SoldePrecedent> </ITEM_HEADER_SoldePrecedent>
+<ITEM_HEADER_TextDownPayment> </ITEM_HEADER_TextDownPayment>
+<ITEM_HEADER_DownPayment> </ITEM_HEADER_DownPayment>
+</ITEM_HEADER>
+<ITEM>
+<ITEM_code>MDO         </ITEM_code>
+<ITEM_description>LABOR</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292331</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>5999054</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/08/30</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>BA12V4A     </ITEM_code>
+<ITEM_description>BATTERY 12 VOLTS 4 AMPS</ITEM_description>
+<ITEM_amount>35.00</ITEM_amount>
+<ITEM_amo_ix>2</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292331</ITEM_s_inv>
+<ITEM_item_qty>1.00</ITEM_item_qty>
+<ITEM_s_wo>5999054</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice>35.00</ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/08/30</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>#           </ITEM_code>
+<ITEM_description>REPLACED PANEL BATTERY 8-30-13</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292331</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>5999054</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date> </ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+</INVOICE_DETAIL>
+<MESSAGES>
+<MESSAGE_TextPresentAvis>If you have already mailed your payment, please disregard this notice</MESSAGE_TextPresentAvis>
+<MESSAGE_TextAgentAutorise> </MESSAGE_TextAgentAutorise>
+<MESSAGE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</MESSAGE_TextPayableAt>
+<MESSAGE_TextVousDemenager>Are you moving?</MESSAGE_TextVousDemenager>
+<MESSAGE_TextVousDemenager2>Don't forget to let us know in advance. Contact us during regular business hours:</MESSAGE_TextVousDemenager2>
+<MESSAGE_TextPromotion>PROMOTION</MESSAGE_TextPromotion>
+<MESSAGE_TextPromotion2>For your convenience, make your payments directly from your bank account or on your credit card</MESSAGE_TextPromotion2>
+<MESSAGE_TextSansFrais> </MESSAGE_TextSansFrais>
+<MESSAGE_TextSansFrais2> </MESSAGE_TextSansFrais2>
+<MESSAGE_TextAvis>Visit our new website at : www.protectron.com</MESSAGE_TextAvis>
+<MESSAGE_TextCieService> </MESSAGE_TextCieService>
+<MESSAGE_cie_service_phone> </MESSAGE_cie_service_phone>
+<MESSAGE_TextSAC>Customer Service</MESSAGE_TextSAC>
+<MESSAGE_SAC_phone>1-800-653-9111</MESSAGE_SAC_phone>
+<MESSAGE_SAC_phone2> </MESSAGE_SAC_phone2>
+<MESSAGE_Text_OR> </MESSAGE_Text_OR>
+<MESSAGE_TextFacturePayable_A>Please remit payment to:</MESSAGE_TextFacturePayable_A>
+<MESSAGE_TextProtectron_addr1>Reliance Protectron  Inc.</MESSAGE_TextProtectron_addr1>
+<MESSAGE_TextProtectron_addr2>8481 Langelier</MESSAGE_TextProtectron_addr2>
+<MESSAGE_TextProtectron_addr3>Montreal, Quebec</MESSAGE_TextProtectron_addr3>
+<MESSAGE_TextProtectron_addr4>H1P 2C3</MESSAGE_TextProtectron_addr4>
+</MESSAGES>
+<CALL_LIST>
+<CL_PERSON>
+<CL_name>WEBER WOLFGANG</CL_name>
+<CL_phone1>519-886-8031</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>NANCY DWAYNE KUIPER</CL_name>
+<CL_phone1>519-747-1769</CL_phone1>
+<CL_phtyp1>RES</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>DWAYNE KUIPER</CL_name>
+<CL_phone1>519-593-3243</CL_phone1>
+<CL_phtyp1>BUS</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>JIM O'DONNEL</CL_name>
+<CL_phone1>519-884-3920</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_MESSAGE>
+<s_ins>20336643</s_ins>
+<s_addr>20746664</s_addr>
+<street1no1>384</street1no1>
+<street1>CAVENDISH DRIVE</street1>
+<street1no2> </street1no2>
+<street2> </street2>
+<city>WATERLOO</city>
+<zip>N2T 2N6</zip>
+<state>ON</state>
+<s_ctr>20198839</s_ctr>
+<s_lang>8</s_lang>
+<s_acc>15324364</s_acc>
+<ba_s_br>1403</ba_s_br>
+<ba_br>0200</ba_br>
+<CL_EmergencyPhoneList>613 725-2803 or 800 746-7212</CL_EmergencyPhoneList>
+<CL_TextEmergencyCallList>EMERGENCY CALL LIST</CL_TextEmergencyCallList>
+<CL_TextContactListAddr>The Following individuals will be contacted if the alarm system is triggered for the following address :</CL_TextContactListAddr>
+<CL_TextNotValidNames>If applicable, please strike out the names that are invalid or add new names to the list.</CL_TextNotValidNames>
+<CL_TexCurrentList>Current List(RLC01138)</CL_TexCurrentList>
+<CL_TextProposedChanges>Proposed Changes</CL_TextProposedChanges>
+<CL_TextNo>#</CL_TextNo>
+<CL_TextName>Name</CL_TextName>
+<CL_TextPhone>Telephone</CL_TextPhone>
+<CL_TextType>Type</CL_TextType>
+<CL_TextPhoneType1>Telephone types :</CL_TextPhoneType1>
+<CL_TextPhoneType2>(BUS: Office) (CEL : Cellular) (PAG : Pager) (RES : Residence) (CHA : Secondary Residence)</CL_TextPhoneType2>
+<CL_TextNotice>Notice to customers that own a system that offers the possibility of programming alarm cancellations (Cancel Alarm) : The monitoring station will not</CL_TextNotice>
+<CL_TextNotice2>proceed the alarm if it has been cancelled by the customer himself using the keypad within moments following the alarm.</CL_TextNotice2>
+<CL_TextSignature>Please sign and return this form either by mail or fax</CL_TextSignature>
+<CL_TextSignature2>If we have not received a response within two(2) weeks, we will consider that the information above is correct and that your file is complete.</CL_TextSignature2>
+<CL_TextSignature3>Any specific detail or modification done to this file, cancels and replaces all previous agreements or standard protocol.</CL_TextSignature3>
+<CL_TextSignature4>Please fill in block letters the name of the individual authorized to modify customer's file :______</CL_TextSignature4>
+<CL_TextSignature5>Date :_____________________ Signature:________________________</CL_TextSignature5>
+<ba_s_lang>8</ba_s_lang>
+</CL_MESSAGE>
+</CALL_LIST>
+</INVOICE>
+<INVOICE>
+<CONTROLE>
+<PROC_FlagReturnEnvelopType>1</PROC_FlagReturnEnvelopType>
+<PROC_FlagShippingEnvelop>1</PROC_FlagShippingEnvelop>
+<PROC_BA_acc_no>RLC00002</PROC_BA_acc_no>
+<PROC_BA_Branch>0200</PROC_BA_Branch>
+<PROC_BA_lang>8</PROC_BA_lang>
+<PROC_FlagPrintPaper>0</PROC_FlagPrintPaper>
+<PROC_FlagShowAmounts>1</PROC_FlagShowAmounts>
+<PROC_flagSendByEmail>0</PROC_flagSendByEmail>
+<PROC_BA_EmailAddr> </PROC_BA_EmailAddr>
+<PROC_wo_type>SERV</PROC_wo_type>
+<PROC_FlagNewClient>0</PROC_FlagNewClient>
+<PROC_BA_Province>ON</PROC_BA_Province>
+<PROC_BA_zip>M2J 4P8</PROC_BA_zip>
+<PROC_BA_city>NORTH YORK</PROC_BA_city>
+<PROC_InvoiceType>0</PROC_InvoiceType>
+<PROC_FlgDisplayCL>1</PROC_FlgDisplayCL>
+<PROC_CustomerType>R</PROC_CustomerType>
+<PROC_FlagVoxcom>0</PROC_FlagVoxcom>
+<PROC_FlagLTBS>0</PROC_FlagLTBS>
+<PROC_FlgInsertLetterNo>0</PROC_FlgInsertLetterNo>
+<PROC_UENo> </PROC_UENo>
+<PROC_flagToSendToProtectron>0</PROC_flagToSendToProtectron>
+<PROC_strCIE>HQ</PROC_strCIE>
+</CONTROLE>
+<HEADER>
+<ENTETE_OCR>0000000000 00028221300002  0000000282923327 0000000000000000 00415 00</ENTETE_OCR>
+<ENTETE_d_invoice_number>28292332</ENTETE_d_invoice_number>
+<ENTETE_d_customer_number>RLC04465</ENTETE_d_customer_number>
+<ENTETE_ACC_number>RLC00002</ENTETE_ACC_number>
+<ENTETE_d_invoice_date>2013 09 05</ENTETE_d_invoice_date>
+<ENTETE_due_date> </ENTETE_due_date>
+<ENTETE_d_invoice_amount>0.00</ENTETE_d_invoice_amount>
+<ENTETE_d_bal_amount>0.00</ENTETE_d_bal_amount>
+<ENTETE_InvoicePeriod> </ENTETE_InvoicePeriod>
+<ENTETE_electronic_ACC>  Number for electronic payment 28221300002000000000</ENTETE_electronic_ACC>
+<ENTETE_ba_iname> </ENTETE_ba_iname>
+<ENTETE_ba_fname> </ENTETE_ba_fname>
+<ENTETE_ba_name>RELIANCE HOME COMFORT</ENTETE_ba_name>
+<ENTETE_ba_contact> </ENTETE_ba_contact>
+<ENTETE_ba_str1no1>2</ENTETE_ba_str1no1>
+<ENTETE_ba_street1>LANSING SQUARE</ENTETE_ba_street1>
+<ENTETE_ba_str1no2> </ENTETE_ba_str1no2>
+<ENTETE_ba_street2>12 TH FLOOR</ENTETE_ba_street2>
+<ENTETE_ba_city>NORTH YORK</ENTETE_ba_city>
+<ENTETE_ba_state>ON</ENTETE_ba_state>
+<ENTETE_ba_zip>M2J 4P8</ENTETE_ba_zip>
+<ENTETE_TextCustomerNumber>Customer Number</ENTETE_TextCustomerNumber>
+<ENTETE_TextInvoiceNumber>Invoice Number</ENTETE_TextInvoiceNumber>
+<ENTETE_InvoiceRef>000000000</ENTETE_InvoiceRef>
+<ENTETE_TextInvoiceDate>INVOICE DATE</ENTETE_TextInvoiceDate>
+<ENTETE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</ENTETE_TextPayableAt>
+<ENTETE_TextEntryNumber>________Entry Number_________</ENTETE_TextEntryNumber>
+<ENTETE_TextInvoiceRef>Invoice Ref.</ENTETE_TextInvoiceRef>
+<ENTETE_TextCustomerRef>Customer Ref.</ENTETE_TextCustomerRef>
+<ENTETE_CustomerRef>28221300002</ENTETE_CustomerRef>
+<ENTETE_TextAmountDue>AMOUNT DUE</ENTETE_TextAmountDue>
+<ENTETE_InvoiceTitle>INVOICE</ENTETE_InvoiceTitle>
+</HEADER>
+<ADDRESSES>
+<ADDRESSES_da_iname> </ADDRESSES_da_iname>
+<ADDRESSES_da_fname>NISA</ADDRESSES_da_fname>
+<ADDRESSES_da_name>ZEBU</ADDRESSES_da_name>
+<ADDRESSES_da_str1no1>163</ADDRESSES_da_str1no1>
+<ADDRESSES_da_street1>MCDOUGALL CROSSING</ADDRESSES_da_street1>
+<ADDRESSES_da_str1no2> </ADDRESSES_da_str1no2>
+<ADDRESSES_da_street2> </ADDRESSES_da_street2>
+<ADDRESSES_da_city>MILTON</ADDRESSES_da_city>
+<ADDRESSES_da_state>ON</ADDRESSES_da_state>
+<ADDRESSES_da_zip>L9T 0P7</ADDRESSES_da_zip>
+<ADDRESSES_cb_miscflgs>          </ADDRESSES_cb_miscflgs>
+<ADDRESSES_ba_iname> </ADDRESSES_ba_iname>
+<ADDRESSES_ba_fname> </ADDRESSES_ba_fname>
+<ADDRESSES_ba_name>RELIANCE HOME COMFORT</ADDRESSES_ba_name>
+<ADDRESSES_ba_contact> </ADDRESSES_ba_contact>
+<ADDRESSES_ba_str1no1>2</ADDRESSES_ba_str1no1>
+<ADDRESSES_ba_street1>LANSING SQUARE</ADDRESSES_ba_street1>
+<ADDRESSES_ba_str1no2> </ADDRESSES_ba_str1no2>
+<ADDRESSES_ba_street2>12 TH FLOOR</ADDRESSES_ba_street2>
+<ADDRESSES_ba_city>NORTH YORK</ADDRESSES_ba_city>
+<ADDRESSES_ba_state>ON</ADDRESSES_ba_state>
+<ADDRESSES_ba_zip>M2J 4P8</ADDRESSES_ba_zip>
+<ADDRESSES_TextKeepThisPortion>KEEP THIS PORTION</ADDRESSES_TextKeepThisPortion>
+<ADDRESSES_TextSoldTo>BILL TO:</ADDRESSES_TextSoldTo>
+<ADDRESSES_TextDeliveryTo>SERVICE ADDRESS:</ADDRESSES_TextDeliveryTo>
+<ADDRESSES_TextDescription>DESCRIPTION</ADDRESSES_TextDescription>
+<ADDRESSES_TextPresentAvis>If you have already mailed your payment, please disregard this notice</ADDRESSES_TextPresentAvis>
+<ADDRESSES_d_invoice_date>2013/09/05</ADDRESSES_d_invoice_date>
+<ADDRESSES_TextInvoiceDate>Invoice Date</ADDRESSES_TextInvoiceDate>
+<ADDRESSES_TextCustomerNumber>Customer Number</ADDRESSES_TextCustomerNumber>
+<ADDRESSES_d_customer_number>RLC04465</ADDRESSES_d_customer_number>
+<ADDRESSES_d_invoice_number>28292332</ADDRESSES_d_invoice_number>
+<ADDRESSES_TextInvoiceNumber>Invoice Number</ADDRESSES_TextInvoiceNumber>
+<ADDRESSES_TextInvoicingDueDate>Do not pay this invoice</ADDRESSES_TextInvoicingDueDate>
+<ADDRESSES_d_invoice_amount>0.00</ADDRESSES_d_invoice_amount>
+<ADDRESSES_TextAmountDue>Amount due</ADDRESSES_TextAmountDue>
+<ADDRESSES_TextWONumber>W.O. Number</ADDRESSES_TextWONumber>
+<ADDRESSES_WONumber>6000896</ADDRESSES_WONumber>
+<ADDRESSES_TextPONumber>P.O. Number</ADDRESSES_TextPONumber>
+<ADDRESSES_PONumber> </ADDRESSES_PONumber>
+<ADDRESSES_TextCallNumber>Call Number</ADDRESSES_TextCallNumber>
+<ADDRESSES_CallNumber>3205838</ADDRESSES_CallNumber>
+<ADDRESSES_TextTicketNumber>Ticket Number</ADDRESSES_TextTicketNumber>
+<ADDRESSES_invRef>3205838</ADDRESSES_invRef>
+<ADDRESSES_TextListeAppel> CALL LIST ON REVERSE SIDE</ADDRESSES_TextListeAppel>
+</ADDRESSES>
+<INVOICE_DETAIL>
+<ITEM_HEADER>
+<ITEM_HEADER_TextMSGP1>Service call:</ITEM_HEADER_TextMSGP1>
+<ITEM_HEADER_Text2MSGP1>Details on next page.</ITEM_HEADER_Text2MSGP1>
+<ITEM_HEADER_TextSousTotal>Sub-Total</ITEM_HEADER_TextSousTotal>
+<ITEM_HEADER_SousTotal>0.00</ITEM_HEADER_SousTotal>
+<ITEM_HEADER_TextTax1> </ITEM_HEADER_TextTax1>
+<ITEM_HEADER_NoTax1> </ITEM_HEADER_NoTax1>
+<ITEM_HEADER_Tax1> </ITEM_HEADER_Tax1>
+<ITEM_HEADER_TextTax2> </ITEM_HEADER_TextTax2>
+<ITEM_HEADER_NoTax2> </ITEM_HEADER_NoTax2>
+<ITEM_HEADER_Tax2> </ITEM_HEADER_Tax2>
+<ITEM_HEADER_TextTotal>Total invoice</ITEM_HEADER_TextTotal>
+<ITEM_HEADER_Total>0.00</ITEM_HEADER_Total>
+<ITEM_HEADER_TextSoldePrecedent> </ITEM_HEADER_TextSoldePrecedent>
+<ITEM_HEADER_SoldePrecedent> </ITEM_HEADER_SoldePrecedent>
+<ITEM_HEADER_TextDownPayment> </ITEM_HEADER_TextDownPayment>
+<ITEM_HEADER_DownPayment> </ITEM_HEADER_DownPayment>
+</ITEM_HEADER>
+<ITEM>
+<ITEM_code>MDO         </ITEM_code>
+<ITEM_description>LABOR</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292332</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000896</ITEM_s_wo>
+<ITEM_CountItems>1</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/09/03</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+</INVOICE_DETAIL>
+<MESSAGES>
+<MESSAGE_TextPresentAvis>If you have already mailed your payment, please disregard this notice</MESSAGE_TextPresentAvis>
+<MESSAGE_TextAgentAutorise> </MESSAGE_TextAgentAutorise>
+<MESSAGE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</MESSAGE_TextPayableAt>
+<MESSAGE_TextVousDemenager>Are you moving?</MESSAGE_TextVousDemenager>
+<MESSAGE_TextVousDemenager2>Don't forget to let us know in advance. Contact us during regular business hours:</MESSAGE_TextVousDemenager2>
+<MESSAGE_TextPromotion>PROMOTION</MESSAGE_TextPromotion>
+<MESSAGE_TextPromotion2>For your convenience, make your payments directly from your bank account or on your credit card</MESSAGE_TextPromotion2>
+<MESSAGE_TextSansFrais> </MESSAGE_TextSansFrais>
+<MESSAGE_TextSansFrais2> </MESSAGE_TextSansFrais2>
+<MESSAGE_TextAvis>Visit our new website at : www.protectron.com</MESSAGE_TextAvis>
+<MESSAGE_TextCieService> </MESSAGE_TextCieService>
+<MESSAGE_cie_service_phone> </MESSAGE_cie_service_phone>
+<MESSAGE_TextSAC>Customer Service</MESSAGE_TextSAC>
+<MESSAGE_SAC_phone>1-800-653-9111</MESSAGE_SAC_phone>
+<MESSAGE_SAC_phone2> </MESSAGE_SAC_phone2>
+<MESSAGE_Text_OR> </MESSAGE_Text_OR>
+<MESSAGE_TextFacturePayable_A>Please remit payment to:</MESSAGE_TextFacturePayable_A>
+<MESSAGE_TextProtectron_addr1>Reliance Protectron  Inc.</MESSAGE_TextProtectron_addr1>
+<MESSAGE_TextProtectron_addr2>8481 Langelier</MESSAGE_TextProtectron_addr2>
+<MESSAGE_TextProtectron_addr3>Montreal, Quebec</MESSAGE_TextProtectron_addr3>
+<MESSAGE_TextProtectron_addr4>H1P 2C3</MESSAGE_TextProtectron_addr4>
+</MESSAGES>
+<CALL_LIST>
+<CL_PERSON>
+<CL_name>NISA ZEBU</CL_name>
+<CL_phone1>647-995-9203</CL_phone1>
+<CL_phtyp1>CEL</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>NISA ZEBU</CL_name>
+<CL_phone1>905-636-7623</CL_phone1>
+<CL_phtyp1>HOM</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>SALMAN ADIL MITHWANI</CL_name>
+<CL_phone1>647-893-3027</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>MUAAZ ADIL MITHWANI</CL_name>
+<CL_phone1>519-697-9572</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_MESSAGE>
+<s_ins>70651274</s_ins>
+<s_addr>71770255</s_addr>
+<street1no1>163</street1no1>
+<street1>MCDOUGALL CROSSING</street1>
+<street1no2> </street1no2>
+<street2> </street2>
+<city>MILTON</city>
+<zip>L9T 0P7</zip>
+<state>ON</state>
+<s_ctr>42819787</s_ctr>
+<s_lang>8</s_lang>
+<s_acc>15324364</s_acc>
+<ba_s_br>1403</ba_s_br>
+<ba_br>0200</ba_br>
+<CL_EmergencyPhoneList>613 725-2803 or 800 746-7212</CL_EmergencyPhoneList>
+<CL_TextEmergencyCallList>EMERGENCY CALL LIST</CL_TextEmergencyCallList>
+<CL_TextContactListAddr>The Following individuals will be contacted if the alarm system is triggered for the following address :</CL_TextContactListAddr>
+<CL_TextNotValidNames>If applicable, please strike out the names that are invalid or add new names to the list.</CL_TextNotValidNames>
+<CL_TexCurrentList>Current List(RLC04465)</CL_TexCurrentList>
+<CL_TextProposedChanges>Proposed Changes</CL_TextProposedChanges>
+<CL_TextNo>#</CL_TextNo>
+<CL_TextName>Name</CL_TextName>
+<CL_TextPhone>Telephone</CL_TextPhone>
+<CL_TextType>Type</CL_TextType>
+<CL_TextPhoneType1>Telephone types :</CL_TextPhoneType1>
+<CL_TextPhoneType2>(BUS: Office) (CEL : Cellular) (PAG : Pager) (RES : Residence) (CHA : Secondary Residence)</CL_TextPhoneType2>
+<CL_TextNotice>Notice to customers that own a system that offers the possibility of programming alarm cancellations (Cancel Alarm) : The monitoring station will not</CL_TextNotice>
+<CL_TextNotice2>proceed the alarm if it has been cancelled by the customer himself using the keypad within moments following the alarm.</CL_TextNotice2>
+<CL_TextSignature>Please sign and return this form either by mail or fax</CL_TextSignature>
+<CL_TextSignature2>If we have not received a response within two(2) weeks, we will consider that the information above is correct and that your file is complete.</CL_TextSignature2>
+<CL_TextSignature3>Any specific detail or modification done to this file, cancels and replaces all previous agreements or standard protocol.</CL_TextSignature3>
+<CL_TextSignature4>Please fill in block letters the name of the individual authorized to modify customer's file :______</CL_TextSignature4>
+<CL_TextSignature5>Date :_____________________ Signature:________________________</CL_TextSignature5>
+<ba_s_lang>8</ba_s_lang>
+</CL_MESSAGE>
+</CALL_LIST>
+</INVOICE>
+<INVOICE>
+<CONTROLE>
+<PROC_FlagReturnEnvelopType>1</PROC_FlagReturnEnvelopType>
+<PROC_FlagShippingEnvelop>1</PROC_FlagShippingEnvelop>
+<PROC_BA_acc_no>RLC00002</PROC_BA_acc_no>
+<PROC_BA_Branch>0200</PROC_BA_Branch>
+<PROC_BA_lang>8</PROC_BA_lang>
+<PROC_FlagPrintPaper>1</PROC_FlagPrintPaper>
+<PROC_FlagShowAmounts>1</PROC_FlagShowAmounts>
+<PROC_flagSendByEmail>0</PROC_flagSendByEmail>
+<PROC_BA_EmailAddr> </PROC_BA_EmailAddr>
+<PROC_wo_type>SERV</PROC_wo_type>
+<PROC_FlagNewClient>0</PROC_FlagNewClient>
+<PROC_BA_Province>ON</PROC_BA_Province>
+<PROC_BA_zip>M2J 4P8</PROC_BA_zip>
+<PROC_BA_city>NORTH YORK</PROC_BA_city>
+<PROC_InvoiceType>0</PROC_InvoiceType>
+<PROC_FlgDisplayCL>1</PROC_FlgDisplayCL>
+<PROC_CustomerType>R</PROC_CustomerType>
+<PROC_FlagVoxcom>0</PROC_FlagVoxcom>
+<PROC_FlagLTBS>0</PROC_FlagLTBS>
+<PROC_FlgInsertLetterNo>0</PROC_FlgInsertLetterNo>
+<PROC_UENo> </PROC_UENo>
+<PROC_flagToSendToProtectron>0</PROC_flagToSendToProtectron>
+<PROC_strCIE>HQ</PROC_strCIE>
+</CONTROLE>
+<HEADER>
+<ENTETE_OCR>0000018012 00028221300002  0000000282923335 0000000000000000 00415 00</ENTETE_OCR>
+<ENTETE_d_invoice_number>28292333</ENTETE_d_invoice_number>
+<ENTETE_d_customer_number>RLC01138</ENTETE_d_customer_number>
+<ENTETE_ACC_number>RLC00002</ENTETE_ACC_number>
+<ENTETE_d_invoice_date>2013 09 05</ENTETE_d_invoice_date>
+<ENTETE_due_date> </ENTETE_due_date>
+<ENTETE_d_invoice_amount>180.12</ENTETE_d_invoice_amount>
+<ENTETE_d_bal_amount>180.12</ENTETE_d_bal_amount>
+<ENTETE_InvoicePeriod> </ENTETE_InvoicePeriod>
+<ENTETE_electronic_ACC>  Number for electronic payment 28221300002000000000</ENTETE_electronic_ACC>
+<ENTETE_ba_iname> </ENTETE_ba_iname>
+<ENTETE_ba_fname> </ENTETE_ba_fname>
+<ENTETE_ba_name>RELIANCE HOME COMFORT</ENTETE_ba_name>
+<ENTETE_ba_contact> </ENTETE_ba_contact>
+<ENTETE_ba_str1no1>2</ENTETE_ba_str1no1>
+<ENTETE_ba_street1>LANSING SQUARE</ENTETE_ba_street1>
+<ENTETE_ba_str1no2> </ENTETE_ba_str1no2>
+<ENTETE_ba_street2>12 TH FLOOR</ENTETE_ba_street2>
+<ENTETE_ba_city>NORTH YORK</ENTETE_ba_city>
+<ENTETE_ba_state>ON</ENTETE_ba_state>
+<ENTETE_ba_zip>M2J 4P8</ENTETE_ba_zip>
+<ENTETE_TextCustomerNumber>Customer Number</ENTETE_TextCustomerNumber>
+<ENTETE_TextInvoiceNumber>Invoice Number</ENTETE_TextInvoiceNumber>
+<ENTETE_InvoiceRef>000000000</ENTETE_InvoiceRef>
+<ENTETE_TextInvoiceDate>INVOICE DATE</ENTETE_TextInvoiceDate>
+<ENTETE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</ENTETE_TextPayableAt>
+<ENTETE_TextEntryNumber>________Entry Number_________</ENTETE_TextEntryNumber>
+<ENTETE_TextInvoiceRef>Invoice Ref.</ENTETE_TextInvoiceRef>
+<ENTETE_TextCustomerRef>Customer Ref.</ENTETE_TextCustomerRef>
+<ENTETE_CustomerRef>28221300002</ENTETE_CustomerRef>
+<ENTETE_TextAmountDue>AMOUNT DUE</ENTETE_TextAmountDue>
+<ENTETE_InvoiceTitle>INVOICE</ENTETE_InvoiceTitle>
+</HEADER>
+<ADDRESSES>
+<ADDRESSES_da_iname> </ADDRESSES_da_iname>
+<ADDRESSES_da_fname>WEBER</ADDRESSES_da_fname>
+<ADDRESSES_da_name>WOLFGANG</ADDRESSES_da_name>
+<ADDRESSES_da_str1no1>384</ADDRESSES_da_str1no1>
+<ADDRESSES_da_street1>CAVENDISH DRIVE</ADDRESSES_da_street1>
+<ADDRESSES_da_str1no2> </ADDRESSES_da_str1no2>
+<ADDRESSES_da_street2> </ADDRESSES_da_street2>
+<ADDRESSES_da_city>WATERLOO</ADDRESSES_da_city>
+<ADDRESSES_da_state>ON</ADDRESSES_da_state>
+<ADDRESSES_da_zip>N2T 2N6</ADDRESSES_da_zip>
+<ADDRESSES_cb_miscflgs>          </ADDRESSES_cb_miscflgs>
+<ADDRESSES_ba_iname> </ADDRESSES_ba_iname>
+<ADDRESSES_ba_fname> </ADDRESSES_ba_fname>
+<ADDRESSES_ba_name>RELIANCE HOME COMFORT</ADDRESSES_ba_name>
+<ADDRESSES_ba_contact> </ADDRESSES_ba_contact>
+<ADDRESSES_ba_str1no1>2</ADDRESSES_ba_str1no1>
+<ADDRESSES_ba_street1>LANSING SQUARE</ADDRESSES_ba_street1>
+<ADDRESSES_ba_str1no2> </ADDRESSES_ba_str1no2>
+<ADDRESSES_ba_street2>12 TH FLOOR</ADDRESSES_ba_street2>
+<ADDRESSES_ba_city>NORTH YORK</ADDRESSES_ba_city>
+<ADDRESSES_ba_state>ON</ADDRESSES_ba_state>
+<ADDRESSES_ba_zip>M2J 4P8</ADDRESSES_ba_zip>
+<ADDRESSES_TextKeepThisPortion>KEEP THIS PORTION</ADDRESSES_TextKeepThisPortion>
+<ADDRESSES_TextSoldTo>BILL TO:</ADDRESSES_TextSoldTo>
+<ADDRESSES_TextDeliveryTo>SERVICE ADDRESS:</ADDRESSES_TextDeliveryTo>
+<ADDRESSES_TextDescription>DESCRIPTION</ADDRESSES_TextDescription>
+<ADDRESSES_TextPresentAvis>If you have already mailed your payment, please disregard this notice</ADDRESSES_TextPresentAvis>
+<ADDRESSES_d_invoice_date>2013/09/05</ADDRESSES_d_invoice_date>
+<ADDRESSES_TextInvoiceDate>Invoice Date</ADDRESSES_TextInvoiceDate>
+<ADDRESSES_TextCustomerNumber>Customer Number</ADDRESSES_TextCustomerNumber>
+<ADDRESSES_d_customer_number>RLC01138</ADDRESSES_d_customer_number>
+<ADDRESSES_d_invoice_number>28292333</ADDRESSES_d_invoice_number>
+<ADDRESSES_TextInvoiceNumber>Invoice Number</ADDRESSES_TextInvoiceNumber>
+<ADDRESSES_TextInvoicingDueDate>Payable upon receipt</ADDRESSES_TextInvoicingDueDate>
+<ADDRESSES_d_invoice_amount>180.12</ADDRESSES_d_invoice_amount>
+<ADDRESSES_TextAmountDue>Amount due</ADDRESSES_TextAmountDue>
+<ADDRESSES_TextWONumber>W.O. Number</ADDRESSES_TextWONumber>
+<ADDRESSES_WONumber>5999043</ADDRESSES_WONumber>
+<ADDRESSES_TextPONumber>P.O. Number</ADDRESSES_TextPONumber>
+<ADDRESSES_PONumber> </ADDRESSES_PONumber>
+<ADDRESSES_TextCallNumber>Call Number</ADDRESSES_TextCallNumber>
+<ADDRESSES_CallNumber>3204922</ADDRESSES_CallNumber>
+<ADDRESSES_TextTicketNumber>Ticket Number</ADDRESSES_TextTicketNumber>
+<ADDRESSES_invRef>3204922</ADDRESSES_invRef>
+<ADDRESSES_TextListeAppel> CALL LIST ON REVERSE SIDE</ADDRESSES_TextListeAppel>
+</ADDRESSES>
+<INVOICE_DETAIL>
+<ITEM_HEADER>
+<ITEM_HEADER_TextMSGP1>Service call:</ITEM_HEADER_TextMSGP1>
+<ITEM_HEADER_Text2MSGP1>Details on next page.</ITEM_HEADER_Text2MSGP1>
+<ITEM_HEADER_TextSousTotal>Sub-Total</ITEM_HEADER_TextSousTotal>
+<ITEM_HEADER_SousTotal>159.40</ITEM_HEADER_SousTotal>
+<ITEM_HEADER_TextTax1>HST-ON</ITEM_HEADER_TextTax1>
+<ITEM_HEADER_NoTax1>121314496</ITEM_HEADER_NoTax1>
+<ITEM_HEADER_Tax1>20.72</ITEM_HEADER_Tax1>
+<ITEM_HEADER_TextTax2> </ITEM_HEADER_TextTax2>
+<ITEM_HEADER_NoTax2> </ITEM_HEADER_NoTax2>
+<ITEM_HEADER_Tax2> </ITEM_HEADER_Tax2>
+<ITEM_HEADER_TextTotal>Total invoice</ITEM_HEADER_TextTotal>
+<ITEM_HEADER_Total>180.12</ITEM_HEADER_Total>
+<ITEM_HEADER_TextSoldePrecedent> </ITEM_HEADER_TextSoldePrecedent>
+<ITEM_HEADER_SoldePrecedent> </ITEM_HEADER_SoldePrecedent>
+<ITEM_HEADER_TextDownPayment> </ITEM_HEADER_TextDownPayment>
+<ITEM_HEADER_DownPayment> </ITEM_HEADER_DownPayment>
+</ITEM_HEADER>
+<ITEM>
+<ITEM_code>BADL123A    </ITEM_code>
+<ITEM_description>3 VOLT LITHIUM BATTERY</ITEM_description>
+<ITEM_amount>159.40</ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292333</ITEM_s_inv>
+<ITEM_item_qty>10.00</ITEM_item_qty>
+<ITEM_s_wo>5999043</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice>15.94</ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/08/30</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>MDO         </ITEM_code>
+<ITEM_description>LABOR</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>2</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292333</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>5999043</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/08/30</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>#           </ITEM_code>
+<ITEM_description>REPLACED DETECTOR BATTERIES 8-30-13 .</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292333</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>5999043</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date> </ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+</INVOICE_DETAIL>
+<MESSAGES>
+<MESSAGE_TextPresentAvis>If you have already mailed your payment, please disregard this notice</MESSAGE_TextPresentAvis>
+<MESSAGE_TextAgentAutorise> </MESSAGE_TextAgentAutorise>
+<MESSAGE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</MESSAGE_TextPayableAt>
+<MESSAGE_TextVousDemenager>Are you moving?</MESSAGE_TextVousDemenager>
+<MESSAGE_TextVousDemenager2>Don't forget to let us know in advance. Contact us during regular business hours:</MESSAGE_TextVousDemenager2>
+<MESSAGE_TextPromotion>PROMOTION</MESSAGE_TextPromotion>
+<MESSAGE_TextPromotion2>For your convenience, make your payments directly from your bank account or on your credit card</MESSAGE_TextPromotion2>
+<MESSAGE_TextSansFrais> </MESSAGE_TextSansFrais>
+<MESSAGE_TextSansFrais2> </MESSAGE_TextSansFrais2>
+<MESSAGE_TextAvis>Visit our new website at : www.protectron.com</MESSAGE_TextAvis>
+<MESSAGE_TextCieService> </MESSAGE_TextCieService>
+<MESSAGE_cie_service_phone> </MESSAGE_cie_service_phone>
+<MESSAGE_TextSAC>Customer Service</MESSAGE_TextSAC>
+<MESSAGE_SAC_phone>1-800-653-9111</MESSAGE_SAC_phone>
+<MESSAGE_SAC_phone2> </MESSAGE_SAC_phone2>
+<MESSAGE_Text_OR> </MESSAGE_Text_OR>
+<MESSAGE_TextFacturePayable_A>Please remit payment to:</MESSAGE_TextFacturePayable_A>
+<MESSAGE_TextProtectron_addr1>Reliance Protectron  Inc.</MESSAGE_TextProtectron_addr1>
+<MESSAGE_TextProtectron_addr2>8481 Langelier</MESSAGE_TextProtectron_addr2>
+<MESSAGE_TextProtectron_addr3>Montreal, Quebec</MESSAGE_TextProtectron_addr3>
+<MESSAGE_TextProtectron_addr4>H1P 2C3</MESSAGE_TextProtectron_addr4>
+</MESSAGES>
+<CALL_LIST>
+<CL_PERSON>
+<CL_name>WEBER WOLFGANG</CL_name>
+<CL_phone1>519-886-8031</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>NANCY DWAYNE KUIPER</CL_name>
+<CL_phone1>519-747-1769</CL_phone1>
+<CL_phtyp1>RES</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>DWAYNE KUIPER</CL_name>
+<CL_phone1>519-593-3243</CL_phone1>
+<CL_phtyp1>BUS</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>JIM O'DONNEL</CL_name>
+<CL_phone1>519-884-3920</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_MESSAGE>
+<s_ins>20336643</s_ins>
+<s_addr>20746664</s_addr>
+<street1no1>384</street1no1>
+<street1>CAVENDISH DRIVE</street1>
+<street1no2> </street1no2>
+<street2> </street2>
+<city>WATERLOO</city>
+<zip>N2T 2N6</zip>
+<state>ON</state>
+<s_ctr>20198839</s_ctr>
+<s_lang>8</s_lang>
+<s_acc>15324364</s_acc>
+<ba_s_br>1403</ba_s_br>
+<ba_br>0200</ba_br>
+<CL_EmergencyPhoneList>613 725-2803 or 800 746-7212</CL_EmergencyPhoneList>
+<CL_TextEmergencyCallList>EMERGENCY CALL LIST</CL_TextEmergencyCallList>
+<CL_TextContactListAddr>The Following individuals will be contacted if the alarm system is triggered for the following address :</CL_TextContactListAddr>
+<CL_TextNotValidNames>If applicable, please strike out the names that are invalid or add new names to the list.</CL_TextNotValidNames>
+<CL_TexCurrentList>Current List(RLC01138)</CL_TexCurrentList>
+<CL_TextProposedChanges>Proposed Changes</CL_TextProposedChanges>
+<CL_TextNo>#</CL_TextNo>
+<CL_TextName>Name</CL_TextName>
+<CL_TextPhone>Telephone</CL_TextPhone>
+<CL_TextType>Type</CL_TextType>
+<CL_TextPhoneType1>Telephone types :</CL_TextPhoneType1>
+<CL_TextPhoneType2>(BUS: Office) (CEL : Cellular) (PAG : Pager) (RES : Residence) (CHA : Secondary Residence)</CL_TextPhoneType2>
+<CL_TextNotice>Notice to customers that own a system that offers the possibility of programming alarm cancellations (Cancel Alarm) : The monitoring station will not</CL_TextNotice>
+<CL_TextNotice2>proceed the alarm if it has been cancelled by the customer himself using the keypad within moments following the alarm.</CL_TextNotice2>
+<CL_TextSignature>Please sign and return this form either by mail or fax</CL_TextSignature>
+<CL_TextSignature2>If we have not received a response within two(2) weeks, we will consider that the information above is correct and that your file is complete.</CL_TextSignature2>
+<CL_TextSignature3>Any specific detail or modification done to this file, cancels and replaces all previous agreements or standard protocol.</CL_TextSignature3>
+<CL_TextSignature4>Please fill in block letters the name of the individual authorized to modify customer's file :______</CL_TextSignature4>
+<CL_TextSignature5>Date :_____________________ Signature:________________________</CL_TextSignature5>
+<ba_s_lang>8</ba_s_lang>
+</CL_MESSAGE>
+</CALL_LIST>
+</INVOICE>
+<INVOICE>
+<CONTROLE>
+<PROC_FlagReturnEnvelopType>1</PROC_FlagReturnEnvelopType>
+<PROC_FlagShippingEnvelop>1</PROC_FlagShippingEnvelop>
+<PROC_BA_acc_no>RLC00002</PROC_BA_acc_no>
+<PROC_BA_Branch>0200</PROC_BA_Branch>
+<PROC_BA_lang>8</PROC_BA_lang>
+<PROC_FlagPrintPaper>1</PROC_FlagPrintPaper>
+<PROC_FlagShowAmounts>1</PROC_FlagShowAmounts>
+<PROC_flagSendByEmail>0</PROC_flagSendByEmail>
+<PROC_BA_EmailAddr> </PROC_BA_EmailAddr>
+<PROC_wo_type>SERV</PROC_wo_type>
+<PROC_FlagNewClient>0</PROC_FlagNewClient>
+<PROC_BA_Province>ON</PROC_BA_Province>
+<PROC_BA_zip>M2J 4P8</PROC_BA_zip>
+<PROC_BA_city>NORTH YORK</PROC_BA_city>
+<PROC_InvoiceType>0</PROC_InvoiceType>
+<PROC_FlgDisplayCL>1</PROC_FlgDisplayCL>
+<PROC_CustomerType>R</PROC_CustomerType>
+<PROC_FlagVoxcom>0</PROC_FlagVoxcom>
+<PROC_FlagLTBS>0</PROC_FlagLTBS>
+<PROC_FlgInsertLetterNo>0</PROC_FlgInsertLetterNo>
+<PROC_UENo> </PROC_UENo>
+<PROC_flagToSendToProtectron>0</PROC_flagToSendToProtectron>
+<PROC_strCIE>HQ</PROC_strCIE>
+</CONTROLE>
+<HEADER>
+<ENTETE_OCR>0000005537 00028221300002  0000000282923343 0000000000000000 00415 00</ENTETE_OCR>
+<ENTETE_d_invoice_number>28292334</ENTETE_d_invoice_number>
+<ENTETE_d_customer_number>RLC02979</ENTETE_d_customer_number>
+<ENTETE_ACC_number>RLC00002</ENTETE_ACC_number>
+<ENTETE_d_invoice_date>2013 09 05</ENTETE_d_invoice_date>
+<ENTETE_due_date> </ENTETE_due_date>
+<ENTETE_d_invoice_amount>55.37</ENTETE_d_invoice_amount>
+<ENTETE_d_bal_amount>55.37</ENTETE_d_bal_amount>
+<ENTETE_InvoicePeriod> </ENTETE_InvoicePeriod>
+<ENTETE_electronic_ACC>  Number for electronic payment 28221300002000000000</ENTETE_electronic_ACC>
+<ENTETE_ba_iname> </ENTETE_ba_iname>
+<ENTETE_ba_fname> </ENTETE_ba_fname>
+<ENTETE_ba_name>RELIANCE HOME COMFORT</ENTETE_ba_name>
+<ENTETE_ba_contact> </ENTETE_ba_contact>
+<ENTETE_ba_str1no1>2</ENTETE_ba_str1no1>
+<ENTETE_ba_street1>LANSING SQUARE</ENTETE_ba_street1>
+<ENTETE_ba_str1no2> </ENTETE_ba_str1no2>
+<ENTETE_ba_street2>12 TH FLOOR</ENTETE_ba_street2>
+<ENTETE_ba_city>NORTH YORK</ENTETE_ba_city>
+<ENTETE_ba_state>ON</ENTETE_ba_state>
+<ENTETE_ba_zip>M2J 4P8</ENTETE_ba_zip>
+<ENTETE_TextCustomerNumber>Customer Number</ENTETE_TextCustomerNumber>
+<ENTETE_TextInvoiceNumber>Invoice Number</ENTETE_TextInvoiceNumber>
+<ENTETE_InvoiceRef>000000000</ENTETE_InvoiceRef>
+<ENTETE_TextInvoiceDate>INVOICE DATE</ENTETE_TextInvoiceDate>
+<ENTETE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</ENTETE_TextPayableAt>
+<ENTETE_TextEntryNumber>________Entry Number_________</ENTETE_TextEntryNumber>
+<ENTETE_TextInvoiceRef>Invoice Ref.</ENTETE_TextInvoiceRef>
+<ENTETE_TextCustomerRef>Customer Ref.</ENTETE_TextCustomerRef>
+<ENTETE_CustomerRef>28221300002</ENTETE_CustomerRef>
+<ENTETE_TextAmountDue>AMOUNT DUE</ENTETE_TextAmountDue>
+<ENTETE_InvoiceTitle>INVOICE</ENTETE_InvoiceTitle>
+</HEADER>
+<ADDRESSES>
+<ADDRESSES_da_iname> </ADDRESSES_da_iname>
+<ADDRESSES_da_fname>ANGELA</ADDRESSES_da_fname>
+<ADDRESSES_da_name>FRACASSI</ADDRESSES_da_name>
+<ADDRESSES_da_str1no1>990</ADDRESSES_da_str1no1>
+<ADDRESSES_da_street1>GOLF LINKS ROAD # 103</ADDRESSES_da_street1>
+<ADDRESSES_da_str1no2> </ADDRESSES_da_str1no2>
+<ADDRESSES_da_street2> </ADDRESSES_da_street2>
+<ADDRESSES_da_city>ANCASTER</ADDRESSES_da_city>
+<ADDRESSES_da_state>ON</ADDRESSES_da_state>
+<ADDRESSES_da_zip>L9K 1J8</ADDRESSES_da_zip>
+<ADDRESSES_cb_miscflgs>          </ADDRESSES_cb_miscflgs>
+<ADDRESSES_ba_iname> </ADDRESSES_ba_iname>
+<ADDRESSES_ba_fname> </ADDRESSES_ba_fname>
+<ADDRESSES_ba_name>RELIANCE HOME COMFORT</ADDRESSES_ba_name>
+<ADDRESSES_ba_contact> </ADDRESSES_ba_contact>
+<ADDRESSES_ba_str1no1>2</ADDRESSES_ba_str1no1>
+<ADDRESSES_ba_street1>LANSING SQUARE</ADDRESSES_ba_street1>
+<ADDRESSES_ba_str1no2> </ADDRESSES_ba_str1no2>
+<ADDRESSES_ba_street2>12 TH FLOOR</ADDRESSES_ba_street2>
+<ADDRESSES_ba_city>NORTH YORK</ADDRESSES_ba_city>
+<ADDRESSES_ba_state>ON</ADDRESSES_ba_state>
+<ADDRESSES_ba_zip>M2J 4P8</ADDRESSES_ba_zip>
+<ADDRESSES_TextKeepThisPortion>KEEP THIS PORTION</ADDRESSES_TextKeepThisPortion>
+<ADDRESSES_TextSoldTo>BILL TO:</ADDRESSES_TextSoldTo>
+<ADDRESSES_TextDeliveryTo>SERVICE ADDRESS:</ADDRESSES_TextDeliveryTo>
+<ADDRESSES_TextDescription>DESCRIPTION</ADDRESSES_TextDescription>
+<ADDRESSES_TextPresentAvis>If you have already mailed your payment, please disregard this notice</ADDRESSES_TextPresentAvis>
+<ADDRESSES_d_invoice_date>2013/09/05</ADDRESSES_d_invoice_date>
+<ADDRESSES_TextInvoiceDate>Invoice Date</ADDRESSES_TextInvoiceDate>
+<ADDRESSES_TextCustomerNumber>Customer Number</ADDRESSES_TextCustomerNumber>
+<ADDRESSES_d_customer_number>RLC02979</ADDRESSES_d_customer_number>
+<ADDRESSES_d_invoice_number>28292334</ADDRESSES_d_invoice_number>
+<ADDRESSES_TextInvoiceNumber>Invoice Number</ADDRESSES_TextInvoiceNumber>
+<ADDRESSES_TextInvoicingDueDate>Payable upon receipt</ADDRESSES_TextInvoicingDueDate>
+<ADDRESSES_d_invoice_amount>55.37</ADDRESSES_d_invoice_amount>
+<ADDRESSES_TextAmountDue>Amount due</ADDRESSES_TextAmountDue>
+<ADDRESSES_TextWONumber>W.O. Number</ADDRESSES_TextWONumber>
+<ADDRESSES_WONumber>6000428</ADDRESSES_WONumber>
+<ADDRESSES_TextPONumber>P.O. Number</ADDRESSES_TextPONumber>
+<ADDRESSES_PONumber> </ADDRESSES_PONumber>
+<ADDRESSES_TextCallNumber>Call Number</ADDRESSES_TextCallNumber>
+<ADDRESSES_CallNumber>3209038</ADDRESSES_CallNumber>
+<ADDRESSES_TextTicketNumber>Ticket Number</ADDRESSES_TextTicketNumber>
+<ADDRESSES_invRef>3209038</ADDRESSES_invRef>
+<ADDRESSES_TextListeAppel> CALL LIST ON REVERSE SIDE</ADDRESSES_TextListeAppel>
+</ADDRESSES>
+<INVOICE_DETAIL>
+<ITEM_HEADER>
+<ITEM_HEADER_TextMSGP1>Service call:</ITEM_HEADER_TextMSGP1>
+<ITEM_HEADER_Text2MSGP1>Details on next page.</ITEM_HEADER_Text2MSGP1>
+<ITEM_HEADER_TextSousTotal>Sub-Total</ITEM_HEADER_TextSousTotal>
+<ITEM_HEADER_SousTotal>49.00</ITEM_HEADER_SousTotal>
+<ITEM_HEADER_TextTax1>HST-ON</ITEM_HEADER_TextTax1>
+<ITEM_HEADER_NoTax1>121314496</ITEM_HEADER_NoTax1>
+<ITEM_HEADER_Tax1>6.37</ITEM_HEADER_Tax1>
+<ITEM_HEADER_TextTax2> </ITEM_HEADER_TextTax2>
+<ITEM_HEADER_NoTax2> </ITEM_HEADER_NoTax2>
+<ITEM_HEADER_Tax2> </ITEM_HEADER_Tax2>
+<ITEM_HEADER_TextTotal>Total invoice</ITEM_HEADER_TextTotal>
+<ITEM_HEADER_Total>55.37</ITEM_HEADER_Total>
+<ITEM_HEADER_TextSoldePrecedent> </ITEM_HEADER_TextSoldePrecedent>
+<ITEM_HEADER_SoldePrecedent> </ITEM_HEADER_SoldePrecedent>
+<ITEM_HEADER_TextDownPayment> </ITEM_HEADER_TextDownPayment>
+<ITEM_HEADER_DownPayment> </ITEM_HEADER_DownPayment>
+</ITEM_HEADER>
+<ITEM>
+<ITEM_code>GE60925     </ITEM_code>
+<ITEM_description>BATTERY FOR ALLEGRO SYSTEM</ITEM_description>
+<ITEM_amount>49.00</ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292334</ITEM_s_inv>
+<ITEM_item_qty>1.00</ITEM_item_qty>
+<ITEM_s_wo>6000428</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice>49.00</ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/09/03</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>MDO         </ITEM_code>
+<ITEM_description>LABOR</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>2</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292334</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000428</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date>2013/09/03</ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+<ITEM>
+<ITEM_code>#           </ITEM_code>
+<ITEM_description>$49 BATTERY</ITEM_description>
+<ITEM_amount> </ITEM_amount>
+<ITEM_amo_ix>1</ITEM_amo_ix>
+<ITEM_tp>1</ITEM_tp>
+<ITEM_s_inv>28292334</ITEM_s_inv>
+<ITEM_item_qty> </ITEM_item_qty>
+<ITEM_s_wo>6000428</ITEM_s_wo>
+<ITEM_CountItems>3</ITEM_CountItems>
+<ITEM_UnitPrice> </ITEM_UnitPrice>
+<ITEM_rev_per> </ITEM_rev_per>
+<ITEM_rev_to_date> </ITEM_rev_to_date>
+<ITEM_rev_fr_date> </ITEM_rev_fr_date>
+<ITEM_TextFrom>From</ITEM_TextFrom>
+<ITEM_TextTo>To</ITEM_TextTo>
+<ITEM_TextFQ>Fq</ITEM_TextFQ>
+</ITEM>
+</INVOICE_DETAIL>
+<MESSAGES>
+<MESSAGE_TextPresentAvis>If you have already mailed your payment, please disregard this notice</MESSAGE_TextPresentAvis>
+<MESSAGE_TextAgentAutorise> </MESSAGE_TextAgentAutorise>
+<MESSAGE_TextPayableAt>Payments accepted in most financial institutions SIPCS 415</MESSAGE_TextPayableAt>
+<MESSAGE_TextVousDemenager>Are you moving?</MESSAGE_TextVousDemenager>
+<MESSAGE_TextVousDemenager2>Don't forget to let us know in advance. Contact us during regular business hours:</MESSAGE_TextVousDemenager2>
+<MESSAGE_TextPromotion>PROMOTION</MESSAGE_TextPromotion>
+<MESSAGE_TextPromotion2>For your convenience, make your payments directly from your bank account or on your credit card</MESSAGE_TextPromotion2>
+<MESSAGE_TextSansFrais> </MESSAGE_TextSansFrais>
+<MESSAGE_TextSansFrais2> </MESSAGE_TextSansFrais2>
+<MESSAGE_TextAvis>Visit our new website at : www.protectron.com</MESSAGE_TextAvis>
+<MESSAGE_TextCieService> </MESSAGE_TextCieService>
+<MESSAGE_cie_service_phone> </MESSAGE_cie_service_phone>
+<MESSAGE_TextSAC>Customer Service</MESSAGE_TextSAC>
+<MESSAGE_SAC_phone>1-800-653-9111</MESSAGE_SAC_phone>
+<MESSAGE_SAC_phone2> </MESSAGE_SAC_phone2>
+<MESSAGE_Text_OR> </MESSAGE_Text_OR>
+<MESSAGE_TextFacturePayable_A>Please remit payment to:</MESSAGE_TextFacturePayable_A>
+<MESSAGE_TextProtectron_addr1>Reliance Protectron  Inc.</MESSAGE_TextProtectron_addr1>
+<MESSAGE_TextProtectron_addr2>8481 Langelier</MESSAGE_TextProtectron_addr2>
+<MESSAGE_TextProtectron_addr3>Montreal, Quebec</MESSAGE_TextProtectron_addr3>
+<MESSAGE_TextProtectron_addr4>H1P 2C3</MESSAGE_TextProtectron_addr4>
+</MESSAGES>
+<CALL_LIST>
+<CL_PERSON>
+<CL_name>PHILLIPPO FRACASSI</CL_name>
+<CL_phone1>905-979-6556</CL_phone1>
+<CL_phtyp1>RES</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>PHILLIPPO FRACASSI</CL_name>
+<CL_phone1>905-304-1845</CL_phone1>
+<CL_phtyp1>BUS</CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>ALLAN FRICASI</CL_name>
+<CL_phone1>905-906-0669</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>ALLAN FRICASI</CL_name>
+<CL_phone1>905-304-0021</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_PERSON>
+<CL_name>MARIA OLIVEVEARY</CL_name>
+<CL_phone1>905-561-2791</CL_phone1>
+<CL_phtyp1>   </CL_phtyp1>
+</CL_PERSON>
+<CL_MESSAGE>
+<s_ins>70433863</s_ins>
+<s_addr>70792282</s_addr>
+<street1no1>990</street1no1>
+<street1>GOLF LINKS ROAD # 103</street1>
+<street1no2> </street1no2>
+<street2> </street2>
+<city>ANCASTER</city>
+<zip>L9K 1J8</zip>
+<state>ON</state>
+<s_ctr>42734286</s_ctr>
+<s_lang>8</s_lang>
+<s_acc>15324364</s_acc>
+<ba_s_br>1403</ba_s_br>
+<ba_br>0200</ba_br>
+<CL_EmergencyPhoneList>613 725-2803 or 800 746-7212</CL_EmergencyPhoneList>
+<CL_TextEmergencyCallList>EMERGENCY CALL LIST</CL_TextEmergencyCallList>
+<CL_TextContactListAddr>The Following individuals will be contacted if the alarm system is triggered for the following address :</CL_TextContactListAddr>
+<CL_TextNotValidNames>If applicable, please strike out the names that are invalid or add new names to the list.</CL_TextNotValidNames>
+<CL_TexCurrentList>Current List(RLC02979)</CL_TexCurrentList>
+<CL_TextProposedChanges>Proposed Changes</CL_TextProposedChanges>
+<CL_TextNo>#</CL_TextNo>
+<CL_TextName>Name</CL_TextName>
+<CL_TextPhone>Telephone</CL_TextPhone>
+<CL_TextType>Type</CL_TextType>
+<CL_TextPhoneType1>Telephone types :</CL_TextPhoneType1>
+<CL_TextPhoneType2>(BUS: Office) (CEL : Cellular) (PAG : Pager) (RES : Residence) (CHA : Secondary Residence)</CL_TextPhoneType2>
+<CL_TextNotice>Notice to customers that own a system that offers the possibility of programming alarm cancellations (Cancel Alarm) : The monitoring station will not</CL_TextNotice>
+<CL_TextNotice2>proceed the alarm if it has been cancelled by the customer himself using the keypad within moments following the alarm.</CL_TextNotice2>
+<CL_TextSignature>Please sign and return this form either by mail or fax</CL_TextSignature>
+<CL_TextSignature2>If we have not received a response within two(2) weeks, we will consider that the information above is correct and that your file is complete.</CL_TextSignature2>
+<CL_TextSignature3>Any specific detail or modification done to this file, cancels and replaces all previous agreements or standard protocol.</CL_TextSignature3>
+<CL_TextSignature4>Please fill in block letters the name of the individual authorized to modify customer's file :______</CL_TextSignature4>
+<CL_TextSignature5>Date :_____________________ Signature:________________________</CL_TextSignature5>
+<ba_s_lang>8</ba_s_lang>
+</CL_MESSAGE>
+</CALL_LIST>
+</INVOICE>
+</INVOICE_BATCH>
